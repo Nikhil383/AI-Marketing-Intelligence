@@ -1,601 +1,601 @@
 Client,Industry,Platform,Content_Type,Content_Topic,Posting_Timestamp,Posting_Day,Posting_Hour,Reach,Ad_Spend,Performance_Score
-Client_13,Health,YouTube,Case Study,Promo,2026-09-12 14:00:00,Saturday,14,13492,188.98,74
-Client_15,E-commerce,YouTube,Blog Post,Promo,2025-10-20 03:00:00,Monday,3,8594,267.02,63
-Client_14,SaaS,Instagram,Carousel,Trends,2024-02-05 20:00:00,Monday,20,14693,103.32,79
-Client_13,E-commerce,Instagram,Blog Post,Behind the Scenes,2024-08-12 14:00:00,Monday,14,7818,482.68,73
-Client_01,Fashion,YouTube,Reel,,2026-06-17 23:00:00,Wednesday,23,13810,371.48,82
-Client_08,SaaS,LinkedIn,Case Study,Behind the Scenes,2025-05-13 12:00:00,Tuesday,12,5296,478.61,74
-Client_12,Health,YouTube,Carousel,Education,2025-04-15 04:00:00,Tuesday,4,13680,152.03,65
-Client_03,SaaS,Instagram,Infographic,Behind the Scenes,2026-07-10 14:00:00,Friday,14,9999999,445.7,70
-Client_12,SaaS,LinkedIn,Carousel,Education,2024-09-18 01:00:00,Wednesday,1,14912,413.96,69
-Client_08,SaaS,LinkedIn,Infographic,Education,2025-12-03 02:00:00,Wednesday,2,10620,354.72,69
-Client_08,Real Estate,LinkedIn,Carousel,,2024-07-03 10:00:00,Wednesday,10,5107,331.26,65
-Client_13,SaaS,YouTube,Blog Post,Trends,2026-07-04 02:00:00,Saturday,2,9543,192.45,62
-Client_05,E-commerce,LinkedIn,Blog Post,Behind the Scenes,2025-08-23 23:00:00,Saturday,23,2022,417.38,65
-Client_13,Fashion,LinkedIn,Blog Post,Education,2025-04-18 11:00:00,Friday,11,7404,275.68,69
-Client_12,FinTech,LinkedIn,Reel,Behind the Scenes,2025-10-29 15:00:00,Wednesday,15,13215,81.9,84
-Client_13,SaaS,LinkedIn,Infographic,Trends,2024-12-12 18:00:00,Thursday,18,14218,190.79,72
-Client_01,Health,YouTube,Blog Post,Trends,2024-03-11 05:00:00,Monday,5,6388,470.88,65
-Client_13,SaaS,Instagram,Reel,,2024-02-02 01:00:00,Friday,1,11321,432.81,88
-Client_10,Health,LinkedIn,Infographic,Trends,2026-08-30 05:00:00,Sunday,5,7332,491.86,72
-Client_07,E-commerce,LinkedIn,Carousel,Customer Success,2024-04-11 09:00:00,Thursday,9,14320,332.6,74
-Client_12,Health,YouTube,Reel,Education,2024-08-09 07:00:00,Friday,7,8622,,72
-Client_10,FinTech,LinkedIn,Case Study,Promo,2024-07-29 11:00:00,Monday,11,7342,123.27,78
-Client_05,Fashion,Facebook,Reel,,2024-09-24 12:00:00,Tuesday,12,2816,134.11,74
-Client_08,Health,X,Reel,Behind the Scenes,2026-01-02 00:00:00,Friday,0,12549,58.91,81
-Client_09,Health,Instagram,Infographic,Education,2026-05-22 11:00:00,Friday,11,14700,225.81,78
-Client_11,Fashion,Instagram,Carousel,Trends,2026-04-03 17:00:00,Friday,17,2624,136.14,69
-Client_14,FinTech,LinkedIn,Case Study,Education,2024-09-23 12:00:00,Monday,12,7121,235.24,69
-Client_07,SaaS,Instagram,Blog Post,Behind the Scenes,2024-12-27 02:00:00,Friday,2,6923,470.75,75
-Client_14,Health,YouTube,Blog Post,Promo,2026-12-05 02:00:00,Saturday,2,4087,243.74,62
-Client_13,Fashion,X,Reel,Promo,2026-02-28 06:00:00,Saturday,6,10715,445.09,73
-Client_15,E-commerce,Instagram,Infographic,Promo,2026-10-06 17:00:00,Tuesday,17,7172,322.48,80
-Client_07,Fashion,Instagram,Infographic,Trends,2026-02-06 23:00:00,Friday,23,2878,161.21,73
-Client_01,E-commerce,Instagram,Blog Post,,2024-04-24 11:00:00,Wednesday,11,4874,210.13,74
-Client_15,FinTech,YouTube,Case Study,Customer Success,2026-11-30 15:00:00,Monday,15,3019,87.76,73
-Client_04,SaaS,LinkedIn,Carousel,Education,2024-01-08 21:00:00,Monday,21,7277,200.06,66
-Client_02,Fashion,Instagram,Case Study,Trends,2026-03-07 14:00:00,Saturday,14,9435,354.89,81
-Client_02,Real Estate,X,Carousel,Promo,2024-05-05 05:00:00,Sunday,5,7593,82.45,59
-Client_02,Health,YouTube,Blog Post,Promo,2026-05-26 18:00:00,Tuesday,18,9918,142.43,61
-Client_04,FinTech,Instagram,Carousel,Behind the Scenes,2024-03-20 03:00:00,Wednesday,3,6855,221.65,74
-Client_14,Fashion,YouTube,Infographic,,2026-10-01 22:00:00,Thursday,22,6468,491.92,58
-Client_01,Health,YouTube,Reel,Promo,2024-02-22 19:00:00,Thursday,19,10583,403.19,76
-Client_15,Fashion,LinkedIn,Reel,Promo,2026-01-16 08:00:00,Friday,8,7074,380.07,80
-Client_04,E-commerce,Instagram,Blog Post,Trends,2025-04-19 18:00:00,Saturday,18,5572,102.29,73
-Client_02,Fashion,Instagram,Infographic,,2024-05-28 04:00:00,Tuesday,4,14824,401.45,76
-Client_05,Real Estate,Instagram,Case Study,Behind the Scenes,2024-06-11 02:00:00,Tuesday,2,3757,403.37,81
-Client_03,Fashion,Facebook,Infographic,Customer Success,2025-01-03 06:00:00,Friday,6,12480,320.5,67
-Client_15,Fashion,X,Reel,Trends,2025-08-27 06:00:00,Wednesday,6,10088,495.66,82
-Client_12,Real Estate,Instagram,Reel,Promo,2026-06-26 09:00:00,Friday,9,14911,196.36,91
-Client_08,FinTech,Instagram,Infographic,Customer Success,2025-03-18 19:00:00,Tuesday,19,11770,473.57,79
-Client_04,Fashion,Instagram,Infographic,Promo,2025-01-01 08:00:00,Wednesday,8,14436,461.63,74
-Client_01,Real Estate,Instagram,Reel,Promo,2025-03-15 19:00:00,Saturday,19,5924,55.17,87
-Client_01,Health,Facebook,Case Study,,2025-03-03 05:00:00,Monday,5,4737,252.55,71
-Client_12,E-commerce,Instagram,Blog Post,Customer Success,2024-12-17 09:00:00,Tuesday,9,5393,489.7,72
-Client_10,E-commerce,Instagram,Blog Post,Customer Success,2025-03-02 09:00:00,Sunday,9,14739,96.4,79
-Client_03,Fashion,Instagram,Infographic,,2025-04-04 00:00:00,Friday,0,3505,296.5,75
-Client_15,FinTech,YouTube,Blog Post,Trends,2026-09-22 17:00:00,Tuesday,17,3516,490.53,64
-Client_09,FinTech,LinkedIn,Reel,Education,2024-04-18 20:00:00,Thursday,20,12863,299.97,84
-Client_07,Health,YouTube,Reel,Promo,2026-09-03 01:00:00,Thursday,1,12360,135.42,77
-Client_02,Fashion,Instagram,Infographic,Behind the Scenes,2026-12-16 19:00:00,Wednesday,19,11570,311.98,76
-Client_15,E-commerce,YouTube,Infographic,Behind the Scenes,2026-07-31 11:00:00,Friday,11,10888,142.0,60
-Client_13,FinTech,YouTube,Infographic,Education,2026-06-30 06:00:00,Tuesday,6,3272,283.87,66
-Client_09,Fashion,Instagram,Case Study,Trends,2026-09-05 11:00:00,Saturday,11,9853,83.32,80
-Client_10,FinTech,LinkedIn,Blog Post,Promo,2026-12-21 14:00:00,Monday,14,5476,322.47,68
-Client_02,Real Estate,Facebook,Infographic,Customer Success,2025-10-19 19:00:00,Sunday,19,3251,282.56,59
-Client_03,FinTech,X,Carousel,Education,2025-12-15 23:00:00,Monday,23,10467,383.07,66
-Client_11,E-commerce,LinkedIn,Carousel,Trends,2025-05-23 14:00:00,Friday,14,8930,333.82,67
-Client_13,SaaS,LinkedIn,Reel,Customer Success,2024-12-08 18:00:00,Sunday,18,8670,297.32,85
-Client_10,Health,X,Blog Post,Behind the Scenes,2025-08-28 21:00:00,Thursday,21,14839,360.4,66
-Client_14,Health,LinkedIn,Infographic,Behind the Scenes,2024-05-11 08:00:00,Saturday,8,7969,114.77,66
-Client_02,E-commerce,Instagram,Carousel,Customer Success,2024-03-07 01:00:00,Thursday,1,10631,317.91,70
-Client_03,FinTech,X,Blog Post,Education,2024-06-13 07:00:00,Thursday,7,4720,127.45,67
-Client_06,Fashion,Instagram,Reel,Behind the Scenes,2026-09-24 11:00:00,Thursday,11,2039,466.48,85
-Client_09,FinTech,LinkedIn,Case Study,Promo,2026-03-21 17:00:00,Saturday,17,14609,80.75,77
-Client_09,E-commerce,Instagram,Blog Post,Customer Success,2024-02-12 13:00:00,Monday,13,2961,243.67,73
-Client_07,Health,Instagram,Blog Post,Customer Success,2025-04-30 13:00:00,Wednesday,13,6684,363.11,69
-Client_12,FinTech,Instagram,Case Study,Behind the Scenes,2025-03-26 05:00:00,Wednesday,5,10047,256.11,82
-Client_03,Health,YouTube,Blog Post,Education,2025-07-13 01:00:00,Sunday,1,13296,91.44,64
-Client_04,Fashion,Instagram,Reel,Promo,2026-04-22 19:00:00,Wednesday,19,13015,299.02,87
-Client_06,Health,Instagram,Reel,Education,2024-11-28 21:00:00,Thursday,21,1734,338.73,82
-Client_11,Health,Instagram,Case Study,Trends,2025-02-07 20:00:00,Friday,20,3048,366.71,80
-Client_05,SaaS,LinkedIn,Infographic,Trends,2025-06-25 06:00:00,Wednesday,6,8980,217.97,72
-Client_02,SaaS,X,Carousel,Behind the Scenes,2024-10-13 09:00:00,Sunday,9,11788,303.65,64
-Client_13,Real Estate,LinkedIn,Infographic,Behind the Scenes,2024-08-24 11:00:00,Saturday,11,5713,252.81,63
-Client_06,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-01-07 17:00:00,Sunday,17,11793,352.43,65
-Client_03,Health,Facebook,Carousel,Trends,2024-06-28 01:00:00,Friday,1,3173,312.6,60
-Client_14,E-commerce,LinkedIn,Case Study,,2024-02-11 11:00:00,Sunday,11,8208,286.59,80
-Client_08,Health,Instagram,Case Study,Education,2025-04-25 14:00:00,Friday,14,14855,162.29,80
-Client_02,E-commerce,Instagram,Carousel,Behind the Scenes,2024-11-13 21:00:00,Wednesday,21,9482,50.91,72
-Client_01,E-commerce,Instagram,Reel,Promo,2026-12-13 03:00:00,Sunday,3,3600,128.34,82
-Client_09,SaaS,LinkedIn,Carousel,Education,2024-02-12 08:00:00,Monday,8,13349,102.68,67
-Client_14,FinTech,LinkedIn,Blog Post,Trends,2026-10-07 13:00:00,Wednesday,13,14345,252.09,65
-Client_12,Fashion,YouTube,Reel,Customer Success,2026-08-08 23:00:00,Saturday,23,13288,325.52,76
-Client_03,SaaS,Instagram,Case Study,Customer Success,2026-10-08 12:00:00,Thursday,12,5248,145.89,80
-Client_11,SaaS,LinkedIn,Carousel,Customer Success,2026-08-26 15:00:00,Wednesday,15,4673,472.58,66
-Client_01,FinTech,YouTube,Infographic,Promo,2026-10-09 12:00:00,Friday,12,3315,53.01,67
-Client_07,Fashion,LinkedIn,Infographic,Behind the Scenes,2024-12-21 09:00:00,Saturday,9,5341,397.54,71
-Client_13,Health,Facebook,Blog Post,,2025-12-20 06:00:00,Saturday,6,11697,331.34,62
-Client_15,Real Estate,LinkedIn,Infographic,Promo,2025-01-21 04:00:00,Tuesday,4,9516,218.1,65
-Client_10,Real Estate,Instagram,Carousel,Trends,2026-06-05 07:00:00,Friday,7,8511,,77
-Client_05,Health,YouTube,Carousel,Trends,2025-05-22 17:00:00,Thursday,17,5993,332.37,68
-Client_05,SaaS,LinkedIn,Infographic,Behind the Scenes,2026-06-04 03:00:00,Thursday,3,2174,223.53,59
-Client_14,Fashion,LinkedIn,Carousel,Customer Success,2024-09-20 19:00:00,Friday,19,9588,471.32,69
-Client_01,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-12-23 03:00:00,Monday,3,10078,293.9,68
-Client_15,E-commerce,LinkedIn,Reel,Promo,2026-11-10 12:00:00,Tuesday,12,3658,472.84,84
-Client_15,SaaS,YouTube,Blog Post,Promo,2024-10-27 08:00:00,Sunday,8,4161,149.22,68
-Client_09,SaaS,Instagram,Blog Post,Promo,2024-08-07 20:00:00,Wednesday,20,3564,376.58,70
-Client_07,Health,Instagram,Carousel,,2026-02-07 14:00:00,Saturday,14,13543,327.76,68
-Client_08,Health,Instagram,Reel,,2025-11-16 08:00:00,Sunday,8,4753,382.73,89
-Client_09,Health,YouTube,Carousel,Trends,2025-11-06 16:00:00,Thursday,16,6479,146.6,67
-Client_06,Real Estate,Instagram,Case Study,,2024-11-29 14:00:00,Friday,14,9203,349.25,79
-Client_12,E-commerce,Facebook,Carousel,Promo,2024-04-17 00:00:00,Wednesday,0,14328,,62
-Client_05,Health,LinkedIn,Carousel,Trends,2026-06-29 07:00:00,Monday,7,13958,384.27,68
-Client_06,Fashion,Facebook,Carousel,Education,2024-03-25 11:00:00,Monday,11,10431,,66
-Client_11,Real Estate,X,Reel,Trends,2024-04-22 07:00:00,Monday,7,2901,450.53,75
-Client_02,FinTech,Facebook,Carousel,Promo,2026-12-22 07:00:00,Tuesday,7,4759,87.94,63
-Client_04,Fashion,Facebook,Reel,Customer Success,2025-10-04 14:00:00,Saturday,14,11969,413.24,79
-Client_03,Fashion,LinkedIn,Infographic,Promo,2024-08-07 02:00:00,Wednesday,2,13596,437.59,69
-Client_13,Health,LinkedIn,Case Study,Behind the Scenes,2026-07-05 18:00:00,Sunday,18,5423,417.76,77
-Client_07,FinTech,Instagram,Reel,Trends,2024-10-07 16:00:00,Monday,16,5714,280.73,86
-Client_09,FinTech,Instagram,Infographic,,2024-01-17 07:00:00,Wednesday,7,4727,247.27,71
-Client_05,Real Estate,LinkedIn,Reel,Behind the Scenes,2025-08-05 18:00:00,Tuesday,18,12523,498.32,86
-Client_06,FinTech,LinkedIn,Reel,Behind the Scenes,2025-06-11 18:00:00,Wednesday,18,13450,153.13,81
-Client_10,E-commerce,Instagram,Case Study,Customer Success,2024-09-02 12:00:00,Monday,12,12204,296.09,78
-Client_14,Health,LinkedIn,Blog Post,Trends,2024-05-28 09:00:00,Tuesday,9,11843,351.8,65
-Client_12,FinTech,Facebook,Blog Post,Trends,2024-09-14 16:00:00,Saturday,16,13367,365.39,66
-Client_12,Real Estate,LinkedIn,Reel,Customer Success,2026-03-22 19:00:00,Sunday,19,4245,141.81,82
-Client_02,E-commerce,YouTube,Carousel,Education,2026-08-02 06:00:00,Sunday,6,7591,344.3,59
-Client_03,SaaS,Facebook,Infographic,Customer Success,2024-12-15 16:00:00,Sunday,16,5366,418.27,65
-Client_03,SaaS,X,Carousel,Promo,2025-06-28 11:00:00,Saturday,11,13456,72.51,62
-Client_12,E-commerce,YouTube,Carousel,Trends,2025-09-28 01:00:00,Sunday,1,7318,460.18,60
-Client_12,Real Estate,Facebook,Reel,Behind the Scenes,2026-03-23 00:00:00,Monday,0,9999999,63.28,76
-Client_15,E-commerce,X,Reel,Promo,2026-09-10 07:00:00,Thursday,7,4292,210.19,81
-Client_09,Health,X,Reel,Trends,2024-04-12 06:00:00,Friday,6,11389,57.12,77
-Client_15,Health,Instagram,Reel,Customer Success,2025-05-08 05:00:00,Thursday,5,13154,84.72,90
-Client_07,SaaS,LinkedIn,Blog Post,Promo,2025-08-07 23:00:00,Thursday,23,5563,460.03,70
-Client_08,FinTech,Instagram,Reel,Trends,2026-11-23 12:00:00,Monday,12,3024,209.69,88
-Client_11,Real Estate,Instagram,Blog Post,Education,2026-03-07 11:00:00,Saturday,11,14452,241.15,78
-Client_10,SaaS,YouTube,Blog Post,Education,2025-04-01 21:00:00,Tuesday,21,9724,146.9,61
-Client_11,FinTech,YouTube,Reel,Behind the Scenes,2026-10-19 10:00:00,Monday,10,7698,318.69,75
-Client_09,FinTech,Facebook,Case Study,Trends,2025-02-10 18:00:00,Monday,18,5525,317.66,66
-Client_06,Health,Instagram,Infographic,Education,2024-07-29 16:00:00,Monday,16,4066,217.49,72
-Client_04,Fashion,Facebook,Carousel,Customer Success,2025-09-14 20:00:00,Sunday,20,4303,199.87,59
-Client_12,Fashion,YouTube,Blog Post,Trends,2024-12-03 22:00:00,Tuesday,22,13588,448.23,64
-Client_01,E-commerce,YouTube,Infographic,Customer Success,2025-07-27 21:00:00,Sunday,21,5209,222.48,63
-Client_08,Health,X,Case Study,,2026-04-22 16:00:00,Wednesday,16,7655,272.08,73
-Client_07,FinTech,YouTube,Carousel,Education,2025-12-26 12:00:00,Friday,12,2219,177.49,62
-Client_02,Real Estate,Instagram,Carousel,Trends,2026-09-17 09:00:00,Thursday,9,8016,404.05,72
-Client_08,Fashion,Facebook,Blog Post,Promo,2024-01-21 22:00:00,Sunday,22,6079,228.85,64
-Client_12,FinTech,LinkedIn,Reel,,2024-10-14 22:00:00,Monday,22,9999999,281.12,78
-Client_05,Fashion,Instagram,Case Study,Education,2025-06-12 13:00:00,Thursday,13,5218,164.01,79
-Client_07,Fashion,Facebook,Blog Post,Trends,2026-11-26 06:00:00,Thursday,6,8895,494.45,64
-Client_04,Fashion,Instagram,Case Study,Trends,2026-08-29 18:00:00,Saturday,18,5902,181.17,80
-Client_05,Real Estate,YouTube,Reel,Customer Success,2026-05-19 16:00:00,Tuesday,16,6052,,79
-Client_08,Health,LinkedIn,Reel,Trends,2024-01-09 14:00:00,Tuesday,14,3707,242.37,80
-Client_01,Real Estate,Facebook,Blog Post,Customer Success,2026-06-15 14:00:00,Monday,14,5926,142.8,66
-Client_01,SaaS,Instagram,Reel,Education,2026-07-20 17:00:00,Monday,17,8419,409.87,94
-Client_15,FinTech,X,Infographic,Behind the Scenes,2026-10-01 09:00:00,Thursday,9,14012,200.12,59
-Client_04,Health,YouTube,Carousel,Promo,2026-09-02 19:00:00,Wednesday,19,12722,439.34,60
-Client_03,Health,Instagram,Blog Post,Education,2026-01-14 12:00:00,Wednesday,12,13267,461.87,74
-Client_13,Health,LinkedIn,Case Study,Trends,2026-10-07 02:00:00,Wednesday,2,12808,436.92,75
-Client_10,Health,X,Infographic,Promo,2025-10-25 22:00:00,Saturday,22,12977,65.75,69
-Client_12,Real Estate,LinkedIn,Blog Post,Behind the Scenes,2025-12-19 15:00:00,Friday,15,14870,404.32,70
-Client_02,Health,Instagram,Reel,,2026-03-09 22:00:00,Monday,22,10335,235.1,93
-Client_12,E-commerce,LinkedIn,Reel,Customer Success,2026-09-18 08:00:00,Friday,8,14403,443.18,78
-Client_03,FinTech,LinkedIn,Reel,,2024-12-30 19:00:00,Monday,19,9886,337.08,86
-Client_11,Health,YouTube,Reel,Customer Success,2026-06-14 20:00:00,Sunday,20,13688,425.14,77
-Client_15,FinTech,YouTube,Case Study,Education,2025-05-30 23:00:00,Friday,23,10180,274.74,68
-Client_15,E-commerce,LinkedIn,Infographic,Promo,2026-07-22 11:00:00,Wednesday,11,3704,290.76,66
-Client_11,E-commerce,Instagram,Carousel,Education,2026-01-25 21:00:00,Sunday,21,12349,114.97,69
-Client_14,FinTech,YouTube,Case Study,Customer Success,2025-09-09 12:00:00,Tuesday,12,6845,402.79,71
-Client_11,Fashion,LinkedIn,Case Study,Promo,2024-11-11 14:00:00,Monday,14,4776,238.73,75
-Client_01,SaaS,Instagram,Carousel,Customer Success,2024-09-22 14:00:00,Sunday,14,2602,275.04,72
-Client_01,Fashion,X,Carousel,Promo,2026-08-27 20:00:00,Thursday,20,6743,403.29,65
-Client_06,Fashion,YouTube,Reel,Customer Success,2024-03-10 22:00:00,Sunday,22,8114,319.48,83
-Client_05,Real Estate,YouTube,Case Study,Behind the Scenes,2026-03-28 18:00:00,Saturday,18,10933,140.49,69
-Client_08,Fashion,Facebook,Blog Post,Customer Success,2026-05-25 20:00:00,Monday,20,10207,315.6,65
-Client_02,Health,LinkedIn,Carousel,Behind the Scenes,2024-02-14 03:00:00,Wednesday,3,6723,233.43,69
-Client_04,Real Estate,Facebook,Carousel,Customer Success,2026-08-18 12:00:00,Tuesday,12,10084,261.29,64
-Client_08,Real Estate,LinkedIn,Infographic,Promo,2025-11-05 22:00:00,Wednesday,22,2130,62.74,67
-Client_12,E-commerce,Instagram,Blog Post,Promo,2025-02-17 02:00:00,Monday,2,13408,144.51,79
-Client_06,Fashion,LinkedIn,Blog Post,Promo,2026-03-25 05:00:00,Wednesday,5,11539,176.47,67
-Client_01,E-commerce,LinkedIn,Carousel,Trends,2026-07-18 03:00:00,Saturday,3,12347,,64
-Client_15,FinTech,YouTube,Reel,Education,2025-03-26 17:00:00,Wednesday,17,10671,55.17,76
-Client_04,SaaS,Instagram,Infographic,Promo,2025-03-31 01:00:00,Monday,1,14221,233.95,76
-Client_01,Real Estate,Instagram,Blog Post,Behind the Scenes,2025-02-11 21:00:00,Tuesday,21,13094,465.81,74
-Client_13,FinTech,Instagram,Carousel,Promo,2025-11-10 16:00:00,Monday,16,13563,100.35,72
-Client_02,FinTech,Instagram,Blog Post,Trends,2025-04-13 20:00:00,Sunday,20,8183,282.39,70
-Client_05,Health,YouTube,Infographic,Behind the Scenes,2024-04-22 05:00:00,Monday,5,1777,403.94,61
-Client_14,SaaS,Instagram,Infographic,Trends,2025-08-03 11:00:00,Sunday,11,1732,474.14,73
-Client_08,FinTech,YouTube,Case Study,Behind the Scenes,2024-05-31 03:00:00,Friday,3,11244,386.05,71
-Client_08,FinTech,LinkedIn,Carousel,Customer Success,2026-12-16 19:00:00,Wednesday,19,7190,374.25,67
-Client_11,SaaS,LinkedIn,Infographic,Education,2025-11-04 05:00:00,Tuesday,5,14901,421.92,69
-Client_03,SaaS,Facebook,Case Study,Education,2025-02-27 21:00:00,Thursday,21,9159,250.79,71
-Client_11,FinTech,LinkedIn,Case Study,,2026-06-28 18:00:00,Sunday,18,12962,412.63,76
-Client_13,SaaS,YouTube,Blog Post,Education,2026-01-21 23:00:00,Wednesday,23,12101,53.58,60
-Client_04,FinTech,LinkedIn,Blog Post,,2026-12-23 17:00:00,Wednesday,17,13204,466.05,69
-Client_10,FinTech,LinkedIn,Case Study,Trends,2025-03-02 06:00:00,Sunday,6,1525,249.49,71
-Client_11,Health,X,Blog Post,Trends,2025-10-16 11:00:00,Thursday,11,8968,299.02,66
-Client_14,Fashion,Instagram,Infographic,Education,2026-07-04 16:00:00,Saturday,16,7910,164.7,73
-Client_06,FinTech,Instagram,Reel,Trends,2025-04-23 22:00:00,Wednesday,22,10152,384.14,91
-Client_11,E-commerce,YouTube,Infographic,Education,2026-09-17 16:00:00,Thursday,16,5264,84.49,61
-Client_11,Real Estate,Instagram,Case Study,,2024-02-24 10:00:00,Saturday,10,8099,,79
-Client_10,Fashion,Facebook,Case Study,Promo,2024-10-09 08:00:00,Wednesday,8,13123,422.65,75
-Client_03,Fashion,LinkedIn,Infographic,Trends,2026-07-16 00:00:00,Thursday,0,14879,147.23,70
-Client_02,Fashion,X,Blog Post,Behind the Scenes,2025-01-29 18:00:00,Wednesday,18,6602,414.2,61
-Client_06,Health,YouTube,Blog Post,Trends,2024-11-09 14:00:00,Saturday,14,8506,403.86,66
-Client_11,FinTech,YouTube,Case Study,Customer Success,2026-11-19 13:00:00,Thursday,13,4983,334.5,68
-Client_13,Health,X,Carousel,Trends,2026-07-03 23:00:00,Friday,23,3494,218.08,62
-Client_15,FinTech,LinkedIn,Blog Post,Behind the Scenes,2024-08-18 10:00:00,Sunday,10,10182,172.17,74
-Client_05,Health,X,Infographic,Behind the Scenes,2026-05-16 13:00:00,Saturday,13,2572,154.3,57
-Client_14,Health,Instagram,Blog Post,Education,2024-06-05 04:00:00,Wednesday,4,8207,193.37,72
-Client_10,Real Estate,LinkedIn,Infographic,Promo,2025-07-18 09:00:00,Friday,9,12865,456.6,70
-Client_05,E-commerce,Instagram,Case Study,,2024-01-28 15:00:00,Sunday,15,1715,84.94,80
-Client_10,Health,LinkedIn,Blog Post,Education,2024-03-24 06:00:00,Sunday,6,9105,422.99,64
-Client_13,Real Estate,Instagram,Infographic,Promo,2024-11-29 02:00:00,Friday,2,11415,207.0,69
-Client_05,SaaS,Facebook,Case Study,Trends,2026-01-14 23:00:00,Wednesday,23,11284,284.72,74
-Client_10,E-commerce,Facebook,Carousel,Customer Success,2024-05-17 16:00:00,Friday,16,4106,407.52,60
-Client_12,Health,X,Infographic,,2026-04-19 11:00:00,Sunday,11,9850,447.97,61
-Client_05,Fashion,Instagram,Carousel,Behind the Scenes,2026-06-19 16:00:00,Friday,16,6281,205.15,77
-Client_03,SaaS,YouTube,Carousel,Behind the Scenes,2026-01-29 21:00:00,Thursday,21,4813,257.83,62
-Client_07,SaaS,LinkedIn,Reel,Customer Success,2025-07-29 08:00:00,Tuesday,8,12533,236.53,84
-Client_06,Real Estate,Instagram,Blog Post,Education,2024-10-01 09:00:00,Tuesday,9,11468,55.96,73
-Client_04,SaaS,LinkedIn,Infographic,Promo,2026-01-06 11:00:00,Tuesday,11,11744,183.17,65
-Client_02,E-commerce,LinkedIn,Carousel,Trends,2026-04-11 21:00:00,Saturday,21,9263,256.64,70
-Client_12,Health,YouTube,Reel,Behind the Scenes,2025-04-30 09:00:00,Wednesday,9,7439,234.99,79
-Client_09,Health,LinkedIn,Case Study,Education,2026-09-24 10:00:00,Thursday,10,3795,374.87,74
-Client_01,Fashion,LinkedIn,Infographic,Customer Success,2026-09-13 00:00:00,Sunday,0,7185,223.16,67
-Client_13,Real Estate,Instagram,Carousel,,2024-03-09 04:00:00,Saturday,4,3196,270.22,71
-Client_13,Fashion,Instagram,Blog Post,Customer Success,2026-04-16 16:00:00,Thursday,16,12685,243.32,76
-Client_11,SaaS,Instagram,Reel,,2025-12-12 18:00:00,Friday,18,12161,383.28,88
-Client_15,Fashion,X,Carousel,Promo,2024-07-16 09:00:00,Tuesday,9,3446,438.34,62
-Client_14,E-commerce,Instagram,Blog Post,Behind the Scenes,2025-08-29 11:00:00,Friday,11,13501,289.35,75
-Client_04,Health,Instagram,Carousel,Behind the Scenes,2025-08-01 05:00:00,Friday,5,4283,405.24,73
-Client_01,SaaS,Instagram,Infographic,Trends,2024-02-05 14:00:00,Monday,14,5144,183.55,77
-Client_13,Fashion,Facebook,Infographic,Education,2026-10-19 20:00:00,Monday,20,6741,,57
-Client_06,Real Estate,X,Infographic,Promo,2024-08-31 23:00:00,Saturday,23,7920,205.35,64
-Client_04,E-commerce,YouTube,Reel,Behind the Scenes,2024-11-04 00:00:00,Monday,0,12192,236.39,76
-Client_05,E-commerce,YouTube,Infographic,Promo,2026-08-12 16:00:00,Wednesday,16,9057,379.59,60
-Client_05,Fashion,LinkedIn,Blog Post,Behind the Scenes,2025-08-04 05:00:00,Monday,5,13337,446.75,67
-Client_09,Health,Instagram,Carousel,Promo,2026-06-20 09:00:00,Saturday,9,4145,104.67,72
-Client_01,Fashion,X,Case Study,Customer Success,2026-06-17 04:00:00,Wednesday,4,8089,335.59,70
-Client_13,SaaS,YouTube,Blog Post,Behind the Scenes,2026-01-23 19:00:00,Friday,19,7853,,58
-Client_02,Fashion,YouTube,Blog Post,Promo,2024-08-29 07:00:00,Thursday,7,12041,103.29,62
-Client_13,E-commerce,YouTube,Infographic,Education,2026-07-02 07:00:00,Thursday,7,3432,145.35,63
-Client_06,Fashion,YouTube,Reel,Customer Success,2024-07-24 11:00:00,Wednesday,11,12986,189.95,76
-Client_05,Health,YouTube,Carousel,Customer Success,2026-04-08 22:00:00,Wednesday,22,3257,125.12,58
-Client_11,Real Estate,X,Reel,Education,2024-01-09 10:00:00,Tuesday,10,6585,159.68,71
-Client_07,FinTech,X,Carousel,Promo,2025-04-21 23:00:00,Monday,23,7137,170.42,61
-Client_03,Fashion,YouTube,Carousel,Trends,2026-05-08 10:00:00,Friday,10,2616,,58
-Client_03,Health,YouTube,Reel,,2025-06-12 16:00:00,Thursday,16,12259,387.23,76
-Client_10,Health,Instagram,Blog Post,Promo,2026-11-21 22:00:00,Saturday,22,13191,,73
-Client_02,Real Estate,YouTube,Carousel,Education,2024-07-01 21:00:00,Monday,21,1992,493.81,59
-Client_13,E-commerce,Instagram,Reel,Education,2024-04-06 23:00:00,Saturday,23,12998,236.63,85
-Client_03,Health,LinkedIn,Carousel,,2024-11-29 12:00:00,Friday,12,10311,389.24,62
-Client_10,Health,X,Case Study,,2026-03-15 19:00:00,Sunday,19,12924,442.16,72
-Client_01,Health,LinkedIn,Blog Post,Trends,2024-11-20 01:00:00,Wednesday,1,9388,355.54,70
-Client_05,Health,LinkedIn,Infographic,Behind the Scenes,2024-01-09 05:00:00,Tuesday,5,13515,235.34,68
-Client_14,SaaS,Instagram,Carousel,Education,2026-09-06 13:00:00,Sunday,13,7974,389.12,72
-Client_15,SaaS,Instagram,Case Study,Education,2024-03-21 10:00:00,Thursday,10,12072,,81
-Client_12,E-commerce,YouTube,Infographic,Education,2025-05-05 14:00:00,Monday,14,11238,197.4,68
-Client_05,Fashion,Instagram,Infographic,Promo,2025-09-20 15:00:00,Saturday,15,6458,296.01,68
-Client_12,Health,Instagram,Carousel,Promo,2026-08-02 15:00:00,Sunday,15,13255,308.93,72
-Client_11,Real Estate,LinkedIn,Reel,Behind the Scenes,2026-11-15 08:00:00,Sunday,8,11297,59.96,78
-Client_07,Fashion,YouTube,Carousel,Trends,2025-01-24 03:00:00,Friday,3,13444,475.3,65
-Client_04,Real Estate,YouTube,Case Study,Behind the Scenes,2026-05-11 02:00:00,Monday,2,14367,363.48,70
-Client_03,Fashion,Instagram,Infographic,Customer Success,2025-04-27 21:00:00,Sunday,21,11582,273.07,74
-Client_01,E-commerce,LinkedIn,Carousel,Education,2026-02-26 07:00:00,Thursday,7,10967,469.91,69
-Client_12,Health,LinkedIn,Reel,Education,2025-10-16 12:00:00,Thursday,12,4243,247.59,85
-Client_15,Health,YouTube,Carousel,Education,2025-12-11 03:00:00,Thursday,3,9366,491.2,65
-Client_08,FinTech,YouTube,Blog Post,,2024-04-27 03:00:00,Saturday,3,12185,280.53,66
-Client_13,Real Estate,LinkedIn,Reel,Behind the Scenes,2026-09-05 10:00:00,Saturday,10,8660,101.43,80
-Client_03,Fashion,LinkedIn,Case Study,Education,2025-08-16 11:00:00,Saturday,11,6951,394.16,78
-Client_13,Fashion,LinkedIn,Infographic,,2024-09-29 18:00:00,Sunday,18,6758,355.5,66
-Client_15,SaaS,Facebook,Carousel,Promo,2026-12-17 01:00:00,Thursday,1,10048,397.84,61
-Client_02,FinTech,LinkedIn,Reel,Promo,2024-03-23 18:00:00,Saturday,18,8686,478.15,84
-Client_11,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-12-13 10:00:00,Friday,10,7602,399.42,69
-Client_04,SaaS,LinkedIn,Reel,,2025-04-20 11:00:00,Sunday,11,10561,325.1,80
-Client_03,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-05-01 07:00:00,Wednesday,7,10577,435.79,68
-Client_13,Real Estate,Facebook,Case Study,,2024-03-13 06:00:00,Wednesday,6,11693,352.96,75
-Client_01,Real Estate,LinkedIn,Infographic,Behind the Scenes,2026-01-29 11:00:00,Thursday,11,10975,233.65,64
-Client_03,E-commerce,YouTube,Case Study,Customer Success,2024-12-27 16:00:00,Friday,16,2119,448.53,72
-Client_12,E-commerce,YouTube,Carousel,Promo,2026-03-17 16:00:00,Tuesday,16,2382,149.86,60
-Client_02,SaaS,LinkedIn,Reel,Trends,2026-02-03 07:00:00,Tuesday,7,10488,371.59,76
-Client_08,FinTech,LinkedIn,Blog Post,Trends,2024-08-27 23:00:00,Tuesday,23,5142,446.7,63
-Client_06,Fashion,Facebook,Blog Post,Customer Success,2026-08-19 14:00:00,Wednesday,14,13117,379.09,61
-Client_09,Real Estate,LinkedIn,Reel,Behind the Scenes,2024-04-09 09:00:00,Tuesday,9,2796,363.77,80
-Client_08,FinTech,LinkedIn,Reel,Customer Success,2025-04-07 23:00:00,Monday,23,14406,388.69,84
-Client_10,Health,X,Carousel,,2024-07-16 08:00:00,Tuesday,8,9936,259.27,55
-Client_03,Real Estate,Instagram,Case Study,Education,2024-03-16 02:00:00,Saturday,2,4395,,80
-Client_05,Real Estate,Instagram,Blog Post,Promo,2024-12-05 19:00:00,Thursday,19,8093,141.55,70
-Client_07,E-commerce,LinkedIn,Carousel,Trends,2024-12-04 08:00:00,Wednesday,8,2429,107.32,70
-Client_05,Fashion,X,Case Study,Behind the Scenes,2024-10-02 16:00:00,Wednesday,16,6866,178.48,69
-Client_08,Fashion,Instagram,Carousel,Trends,2025-08-17 01:00:00,Sunday,1,10211,289.21,76
-Client_12,Health,Instagram,Blog Post,Trends,2025-08-26 14:00:00,Tuesday,14,4712,279.75,76
-Client_05,Health,Instagram,Reel,Promo,2026-07-02 06:00:00,Thursday,6,3909,419.27,90
-Client_01,Real Estate,Instagram,Reel,Trends,2026-05-01 21:00:00,Friday,21,9699,232.06,87
-Client_05,SaaS,Instagram,Case Study,Trends,2025-11-24 14:00:00,Monday,14,12217,267.95,79
-Client_04,E-commerce,LinkedIn,Infographic,Customer Success,2025-08-09 11:00:00,Saturday,11,4923,56.02,67
-Client_06,E-commerce,LinkedIn,Case Study,Promo,2026-08-02 15:00:00,Sunday,15,11711,234.38,77
-Client_03,Real Estate,Instagram,Infographic,Education,2026-11-15 23:00:00,Sunday,23,14282,341.5,72
-Client_15,FinTech,LinkedIn,Carousel,Behind the Scenes,2025-01-18 16:00:00,Saturday,16,8476,56.98,68
-Client_11,SaaS,Instagram,Carousel,Trends,2025-11-13 03:00:00,Thursday,3,9094,176.4,74
-Client_05,Real Estate,Instagram,Blog Post,Behind the Scenes,2025-05-08 03:00:00,Thursday,3,6658,143.58,70
-Client_02,SaaS,LinkedIn,Infographic,Education,2025-07-02 16:00:00,Wednesday,16,13974,68.89,66
-Client_11,SaaS,YouTube,Blog Post,Behind the Scenes,2024-03-26 09:00:00,Tuesday,9,5167,265.67,62
-Client_06,SaaS,Instagram,Reel,Education,2024-08-13 23:00:00,Tuesday,23,13363,131.78,89
-Client_13,Real Estate,LinkedIn,Infographic,,2025-08-30 21:00:00,Saturday,21,12493,384.39,70
-Client_15,E-commerce,Instagram,Case Study,Trends,2026-05-22 04:00:00,Friday,4,7473,431.57,82
-Client_12,E-commerce,Facebook,Reel,Education,2026-03-23 04:00:00,Monday,4,7736,295.51,75
-Client_06,SaaS,YouTube,Reel,Behind the Scenes,2024-10-25 06:00:00,Friday,6,9777,491.77,76
-Client_05,FinTech,LinkedIn,Case Study,Trends,2025-03-03 00:00:00,Monday,0,12807,252.72,73
-Client_06,Fashion,Instagram,Reel,Customer Success,2024-11-04 08:00:00,Monday,8,13924,281.02,93
-Client_11,Real Estate,X,Infographic,Trends,2026-03-25 18:00:00,Wednesday,18,3968,495.15,62
-Client_07,Fashion,Instagram,Blog Post,Education,2025-02-15 10:00:00,Saturday,10,7717,154.2,73
-Client_12,FinTech,Instagram,Reel,Customer Success,2025-09-23 07:00:00,Tuesday,7,5119,474.15,87
-Client_05,Real Estate,LinkedIn,Infographic,Behind the Scenes,2026-02-15 15:00:00,Sunday,15,3136,69.28,64
-Client_01,SaaS,Instagram,Carousel,,2024-02-18 02:00:00,Sunday,2,9655,250.87,78
-Client_08,E-commerce,X,Infographic,Customer Success,2024-07-06 11:00:00,Saturday,11,5083,81.5,64
-Client_04,Fashion,YouTube,Blog Post,Promo,2024-09-19 07:00:00,Thursday,7,5509,378.16,63
-Client_09,Health,Instagram,Infographic,Customer Success,2026-07-29 21:00:00,Wednesday,21,4826,323.78,69
-Client_14,Health,LinkedIn,Case Study,Customer Success,2026-12-30 16:00:00,Wednesday,16,11910,367.99,72
-Client_10,FinTech,X,Blog Post,Trends,2025-05-22 15:00:00,Thursday,15,9648,218.52,62
-Client_12,SaaS,Facebook,Carousel,Behind the Scenes,2025-06-20 10:00:00,Friday,10,3717,216.27,60
-Client_06,Fashion,YouTube,Case Study,Trends,2026-01-21 08:00:00,Wednesday,8,6467,70.39,66
-Client_01,SaaS,X,Infographic,Trends,2024-08-18 19:00:00,Sunday,19,3869,207.48,61
-Client_03,Fashion,X,Blog Post,Education,2025-02-05 13:00:00,Wednesday,13,5138,468.18,62
-Client_03,FinTech,YouTube,Carousel,Trends,2026-05-07 15:00:00,Thursday,15,12195,220.65,64
-Client_10,FinTech,Instagram,Case Study,Promo,2026-10-31 13:00:00,Saturday,13,10635,,79
-Client_12,Health,LinkedIn,Carousel,Promo,2025-10-11 10:00:00,Saturday,10,7222,429.05,65
-Client_12,SaaS,Facebook,Infographic,Education,2024-04-16 13:00:00,Tuesday,13,12529,217.96,61
-Client_04,Real Estate,Instagram,Carousel,Behind the Scenes,2024-08-21 00:00:00,Wednesday,0,9999999,334.39,77
-Client_06,Health,Facebook,Reel,Behind the Scenes,2025-11-17 18:00:00,Monday,18,12628,92.92,75
-Client_15,SaaS,Instagram,Case Study,Trends,2024-04-01 16:00:00,Monday,16,5944,96.66,81
-Client_07,Health,Instagram,Carousel,Trends,2025-08-13 12:00:00,Wednesday,12,9118,71.9,75
-Client_10,Real Estate,LinkedIn,Infographic,Trends,2024-05-03 09:00:00,Friday,9,5447,311.46,67
-Client_04,E-commerce,Instagram,Infographic,,2025-08-14 23:00:00,Thursday,23,3176,241.73,77
-Client_06,E-commerce,X,Carousel,Customer Success,2026-06-08 21:00:00,Monday,21,2696,296.61,63
-Client_11,E-commerce,Facebook,Infographic,Promo,2026-05-17 09:00:00,Sunday,9,13797,284.48,69
-Client_01,E-commerce,Facebook,Blog Post,Customer Success,2025-05-13 17:00:00,Tuesday,17,4287,207.59,60
-Client_14,Fashion,YouTube,Blog Post,Customer Success,2024-04-29 13:00:00,Monday,13,8932,354.86,61
-Client_08,E-commerce,Instagram,Blog Post,Behind the Scenes,2025-12-23 12:00:00,Tuesday,12,11153,391.33,75
-Client_07,Real Estate,LinkedIn,Reel,Customer Success,2025-08-06 00:00:00,Wednesday,0,9427,56.58,82
-Client_15,FinTech,LinkedIn,Carousel,Education,2026-10-27 16:00:00,Tuesday,16,4818,143.26,72
-Client_11,FinTech,LinkedIn,Reel,Trends,2024-08-25 11:00:00,Sunday,11,10358,370.96,84
-Client_11,Fashion,Instagram,Infographic,Education,2026-08-30 00:00:00,Sunday,0,8189,223.98,70
-Client_09,E-commerce,LinkedIn,Reel,Promo,2026-05-19 21:00:00,Tuesday,21,3676,348.12,77
-Client_03,E-commerce,LinkedIn,Infographic,Trends,2026-12-14 04:00:00,Monday,4,5243,206.13,67
-Client_02,E-commerce,X,Infographic,Customer Success,2026-06-06 07:00:00,Saturday,7,10292,225.84,63
-Client_01,Health,Facebook,Case Study,Promo,2024-06-15 03:00:00,Saturday,3,12344,121.41,72
-Client_03,SaaS,LinkedIn,Blog Post,Trends,2026-12-23 15:00:00,Wednesday,15,5922,,71
-Client_05,Health,YouTube,Infographic,,2026-07-22 07:00:00,Wednesday,7,5324,322.44,66
-Client_14,SaaS,YouTube,Case Study,Education,2025-07-14 06:00:00,Monday,6,13598,244.92,69
-Client_11,E-commerce,Instagram,Blog Post,Trends,2024-02-20 18:00:00,Tuesday,18,10671,398.44,70
-Client_02,E-commerce,Facebook,Infographic,Customer Success,2026-05-20 00:00:00,Wednesday,0,3951,433.66,58
-Client_12,Health,Facebook,Infographic,Education,2024-07-16 07:00:00,Tuesday,7,2128,293.74,59
-Client_03,Health,LinkedIn,Reel,Promo,2025-04-15 16:00:00,Tuesday,16,11321,391.22,82
-Client_15,SaaS,LinkedIn,Reel,,2024-07-08 19:00:00,Monday,19,9278,,84
-Client_15,FinTech,Instagram,Blog Post,Promo,2025-01-16 02:00:00,Thursday,2,5196,,70
-Client_15,SaaS,LinkedIn,Infographic,Promo,2024-12-01 10:00:00,Sunday,10,13122,370.75,70
-Client_04,Health,Instagram,Carousel,Behind the Scenes,2025-06-15 13:00:00,Sunday,13,5174,223.8,73
-Client_07,Real Estate,Facebook,Reel,Trends,2026-04-06 06:00:00,Monday,6,5429,314.83,78
-Client_13,Health,Instagram,Blog Post,Trends,2025-12-27 05:00:00,Saturday,5,4265,133.42,69
-Client_03,Real Estate,Instagram,Infographic,Behind the Scenes,2024-10-14 05:00:00,Monday,5,5869,319.9,74
-Client_15,Fashion,X,Infographic,Customer Success,2026-01-23 05:00:00,Friday,5,14472,437.68,70
-Client_09,Health,YouTube,Carousel,Customer Success,2025-08-21 21:00:00,Thursday,21,9807,440.89,64
-Client_08,Fashion,Instagram,Blog Post,Promo,2025-08-29 21:00:00,Friday,21,6456,375.95,64
-Client_04,FinTech,Instagram,Infographic,Education,2024-05-23 04:00:00,Thursday,4,11695,385.59,77
-Client_13,SaaS,Instagram,Reel,Customer Success,2024-12-30 18:00:00,Monday,18,2192,301.07,84
-Client_01,Real Estate,YouTube,Carousel,Education,2025-03-20 21:00:00,Thursday,21,4662,313.1,69
-Client_01,SaaS,Instagram,Blog Post,Trends,2024-09-02 15:00:00,Monday,15,2605,110.14,72
-Client_01,Fashion,LinkedIn,Carousel,Education,2026-04-02 10:00:00,Thursday,10,4508,249.74,62
-Client_01,Real Estate,X,Reel,Trends,2025-11-23 01:00:00,Sunday,1,3661,252.85,71
-Client_08,SaaS,Instagram,Blog Post,Behind the Scenes,2025-10-13 12:00:00,Monday,12,9845,481.32,78
-Client_03,Health,Facebook,Carousel,Behind the Scenes,2026-06-05 13:00:00,Friday,13,5199,243.99,66
-Client_15,E-commerce,X,Case Study,Promo,2024-10-19 14:00:00,Saturday,14,14102,297.2,78
-Client_06,Fashion,Instagram,Reel,Customer Success,2025-01-16 07:00:00,Thursday,7,5286,289.96,87
-Client_03,SaaS,Facebook,Reel,Promo,2024-08-21 08:00:00,Wednesday,8,10756,336.54,78
-Client_11,Fashion,LinkedIn,Reel,Trends,2024-11-29 04:00:00,Friday,4,5700,386.7,81
-Client_05,Fashion,X,Case Study,Promo,2025-01-10 07:00:00,Friday,7,3413,151.27,67
-Client_13,Real Estate,LinkedIn,Case Study,Education,2025-06-23 10:00:00,Monday,10,10908,287.93,74
-Client_15,Real Estate,YouTube,Infographic,,2026-09-29 19:00:00,Tuesday,19,7020,421.66,63
-Client_14,E-commerce,LinkedIn,Carousel,Behind the Scenes,2024-07-12 10:00:00,Friday,10,12093,,66
-Client_13,Health,Facebook,Infographic,Customer Success,2025-04-16 08:00:00,Wednesday,8,3272,175.31,57
-Client_15,Fashion,YouTube,Carousel,Trends,2024-11-15 23:00:00,Friday,23,11652,344.62,64
-Client_07,SaaS,LinkedIn,Case Study,Trends,2024-12-08 00:00:00,Sunday,0,4280,420.7,71
-Client_02,FinTech,Facebook,Case Study,Education,2026-09-15 11:00:00,Tuesday,11,14496,78.41,61
-Client_06,Fashion,Instagram,Infographic,Customer Success,2026-12-11 19:00:00,Friday,19,8923,399.56,75
-Client_13,Fashion,Instagram,Blog Post,Behind the Scenes,2026-02-13 13:00:00,Friday,13,14438,419.74,71
-Client_06,E-commerce,Instagram,Infographic,Trends,2025-03-22 12:00:00,Saturday,12,4371,257.69,74
-Client_11,Health,Instagram,Carousel,,2025-12-28 05:00:00,Sunday,5,14734,492.49,76
-Client_03,FinTech,Instagram,Infographic,Education,2024-05-23 12:00:00,Thursday,12,2160,404.02,72
-Client_06,Real Estate,X,Reel,Promo,2025-03-24 05:00:00,Monday,5,7742,398.15,85
-Client_10,Real Estate,Instagram,Carousel,Behind the Scenes,2025-08-24 10:00:00,Sunday,10,12327,386.53,73
-Client_10,SaaS,YouTube,Carousel,,2024-02-14 04:00:00,Wednesday,4,12021,117.77,63
-Client_14,FinTech,Instagram,Blog Post,Trends,2026-02-18 15:00:00,Wednesday,15,13646,147.75,76
-Client_05,Real Estate,Facebook,Case Study,Trends,2024-05-22 12:00:00,Wednesday,12,12142,258.8,70
-Client_12,SaaS,X,Carousel,Behind the Scenes,2024-01-13 13:00:00,Saturday,13,2632,168.8,65
-Client_02,Health,LinkedIn,Case Study,Promo,2025-06-03 12:00:00,Tuesday,12,2199,236.86,69
-Client_09,SaaS,Facebook,Infographic,Trends,2025-12-08 22:00:00,Monday,22,8970,449.81,59
-Client_08,Real Estate,Instagram,Reel,Behind the Scenes,2026-03-25 18:00:00,Wednesday,18,11730,420.95,91
-Client_03,E-commerce,Facebook,Blog Post,Education,2024-01-30 03:00:00,Tuesday,3,7797,333.52,59
-Client_08,E-commerce,Instagram,Case Study,Promo,2026-06-13 16:00:00,Saturday,16,14339,436.15,83
-Client_14,E-commerce,X,Carousel,Customer Success,2026-12-07 11:00:00,Monday,11,9312,402.7,64
-Client_09,Real Estate,Instagram,Case Study,Trends,2024-01-08 22:00:00,Monday,22,14192,243.04,79
-Client_14,E-commerce,LinkedIn,Carousel,Behind the Scenes,2025-03-13 04:00:00,Thursday,4,6057,140.48,69
-Client_15,FinTech,YouTube,Case Study,Education,2025-12-24 12:00:00,Wednesday,12,3679,281.39,65
-Client_03,Health,Instagram,Carousel,Customer Success,2024-05-03 23:00:00,Friday,23,12530,,71
-Client_03,SaaS,Instagram,Infographic,Behind the Scenes,2024-09-11 06:00:00,Wednesday,6,10565,246.39,73
-Client_02,SaaS,Instagram,Carousel,Behind the Scenes,2026-01-02 00:00:00,Friday,0,9775,350.05,74
-Client_08,Real Estate,Instagram,Carousel,Customer Success,2026-04-01 07:00:00,Wednesday,7,2922,92.45,71
-Client_10,E-commerce,LinkedIn,Reel,Education,2026-04-04 02:00:00,Saturday,2,12367,386.6,85
-Client_01,E-commerce,Instagram,Carousel,Education,2026-10-26 07:00:00,Monday,7,4680,415.72,73
-Client_08,Fashion,LinkedIn,Reel,Promo,2024-03-16 16:00:00,Saturday,16,5816,368.08,87
-Client_07,Health,Instagram,Blog Post,,2026-07-15 14:00:00,Wednesday,14,13667,,73
-Client_14,FinTech,Facebook,Reel,,2026-08-20 05:00:00,Thursday,5,8196,,82
-Client_07,SaaS,Instagram,Infographic,Customer Success,2024-01-24 17:00:00,Wednesday,17,11083,456.39,76
-Client_03,Fashion,Instagram,Reel,Customer Success,2024-08-14 18:00:00,Wednesday,18,12910,470.11,96
-Client_01,Fashion,Instagram,Blog Post,Education,2024-03-19 23:00:00,Tuesday,23,13899,410.61,73
-Client_04,Real Estate,LinkedIn,Infographic,Trends,2026-03-07 13:00:00,Saturday,13,2114,353.42,65
-Client_09,SaaS,Facebook,Case Study,Promo,2024-06-09 23:00:00,Sunday,23,12663,52.57,74
-Client_05,Real Estate,LinkedIn,Case Study,,2025-06-22 01:00:00,Sunday,1,13257,259.62,77
-Client_01,FinTech,Instagram,Reel,Behind the Scenes,2024-11-06 15:00:00,Wednesday,15,13268,307.02,93
-Client_15,Fashion,YouTube,Reel,Customer Success,2024-06-16 06:00:00,Sunday,6,6070,186.81,80
-Client_05,Fashion,YouTube,Blog Post,Trends,2025-04-07 05:00:00,Monday,5,1770,193.15,54
-Client_13,Health,Instagram,Blog Post,Education,2026-01-22 22:00:00,Thursday,22,13758,482.52,75
-Client_08,FinTech,YouTube,Carousel,Trends,2024-05-05 09:00:00,Sunday,9,3968,451.27,63
-Client_08,Fashion,X,Blog Post,Trends,2026-10-04 22:00:00,Sunday,22,11082,432.13,64
-Client_05,FinTech,Instagram,Carousel,Education,2025-11-20 02:00:00,Thursday,2,13046,232.71,73
-Client_12,SaaS,YouTube,Infographic,Customer Success,2025-03-23 01:00:00,Sunday,1,13827,56.16,59
-Client_09,E-commerce,YouTube,Reel,Trends,2024-02-28 17:00:00,Wednesday,17,14781,,82
-Client_15,Fashion,LinkedIn,Infographic,Behind the Scenes,2025-05-25 09:00:00,Sunday,9,5107,190.49,68
-Client_01,Health,Instagram,Blog Post,Education,2024-02-02 16:00:00,Friday,16,12275,57.08,77
-Client_04,SaaS,Instagram,Infographic,Promo,2024-12-03 08:00:00,Tuesday,8,13765,57.72,69
-Client_03,FinTech,Facebook,Infographic,Customer Success,2024-11-11 00:00:00,Monday,0,4575,462.47,64
-Client_02,Real Estate,X,Infographic,Education,2025-06-06 05:00:00,Friday,5,13598,367.77,63
-Client_15,SaaS,YouTube,Blog Post,Promo,2024-11-01 23:00:00,Friday,23,1789,189.03,61
-Client_08,Fashion,LinkedIn,Infographic,Promo,2024-10-27 06:00:00,Sunday,6,9620,109.69,68
-Client_07,FinTech,YouTube,Carousel,Trends,2026-07-04 20:00:00,Saturday,20,12172,280.24,65
-Client_09,E-commerce,LinkedIn,Blog Post,Trends,2024-08-29 17:00:00,Thursday,17,8114,52.41,68
-Client_02,SaaS,LinkedIn,Infographic,Trends,2026-03-10 14:00:00,Tuesday,14,4752,472.29,64
-Client_14,Fashion,Instagram,Blog Post,Education,2025-12-06 01:00:00,Saturday,1,8915,236.67,73
-Client_14,Health,Facebook,Case Study,Education,2024-09-06 10:00:00,Friday,10,8271,,69
-Client_04,Real Estate,LinkedIn,Carousel,Customer Success,2026-01-29 09:00:00,Thursday,9,1778,,65
-Client_14,FinTech,Facebook,Infographic,Trends,2025-03-19 15:00:00,Wednesday,15,12616,81.2,54
-Client_15,SaaS,Instagram,Case Study,Promo,2024-12-29 04:00:00,Sunday,4,2080,337.25,80
-Client_06,SaaS,Instagram,Case Study,Behind the Scenes,2026-08-31 03:00:00,Monday,3,6458,379.85,79
-Client_11,E-commerce,Instagram,Blog Post,Customer Success,2026-07-06 01:00:00,Monday,1,9945,354.26,69
-Client_03,E-commerce,LinkedIn,Case Study,Education,2026-03-16 14:00:00,Monday,14,5776,112.3,77
-Client_08,Health,X,Carousel,Customer Success,2026-10-12 16:00:00,Monday,16,9497,310.48,65
-Client_03,Real Estate,Instagram,Carousel,Customer Success,2025-05-28 11:00:00,Wednesday,11,6276,306.27,72
-Client_14,Health,Facebook,Reel,Customer Success,2024-07-18 04:00:00,Thursday,4,2324,440.78,73
-Client_12,Fashion,LinkedIn,Carousel,Customer Success,2024-04-08 16:00:00,Monday,16,5332,220.61,68
-Client_13,Fashion,Facebook,Case Study,Behind the Scenes,2025-05-16 15:00:00,Friday,15,10391,217.17,71
-Client_13,Health,Instagram,Carousel,Trends,2024-10-04 07:00:00,Friday,7,6945,328.34,76
-Client_02,Real Estate,Facebook,Blog Post,Promo,2024-12-06 13:00:00,Friday,13,2880,334.88,60
-Client_13,Health,YouTube,Reel,Customer Success,2024-07-06 07:00:00,Saturday,7,13588,261.18,82
-Client_13,Real Estate,Instagram,Case Study,Customer Success,2025-03-29 21:00:00,Saturday,21,11365,249.38,79
-Client_03,Real Estate,Instagram,Reel,Customer Success,2026-11-30 11:00:00,Monday,11,12419,272.37,85
-Client_11,FinTech,Facebook,Case Study,Trends,2026-07-21 18:00:00,Tuesday,18,9999999,437.47,67
-Client_06,Real Estate,X,Blog Post,Education,2026-08-16 06:00:00,Sunday,6,4656,257.53,62
-Client_02,E-commerce,Instagram,Reel,Education,2026-12-08 14:00:00,Tuesday,14,13080,472.97,89
-Client_08,Real Estate,YouTube,Infographic,,2025-07-12 11:00:00,Saturday,11,5807,276.8,63
-Client_01,Real Estate,X,Case Study,Education,2025-06-30 17:00:00,Monday,17,7134,477.14,70
-Client_07,Real Estate,Facebook,Infographic,Customer Success,2026-07-18 07:00:00,Saturday,7,10075,424.77,66
-Client_02,Fashion,X,Reel,Customer Success,2025-04-01 22:00:00,Tuesday,22,7310,,77
-Client_10,E-commerce,YouTube,Infographic,Customer Success,2024-02-05 13:00:00,Monday,13,10033,438.64,57
-Client_12,E-commerce,LinkedIn,Infographic,Behind the Scenes,2026-05-05 10:00:00,Tuesday,10,7434,99.53,68
-Client_06,Health,Instagram,Reel,Customer Success,2026-04-19 17:00:00,Sunday,17,11679,466.27,83
-Client_12,FinTech,Instagram,Blog Post,Education,2025-12-07 14:00:00,Sunday,14,13751,334.24,75
-Client_02,Real Estate,YouTube,Infographic,,2025-12-31 12:00:00,Wednesday,12,14631,,67
-Client_02,SaaS,YouTube,Infographic,Trends,2026-08-02 21:00:00,Sunday,21,4609,339.92,59
-Client_10,FinTech,Instagram,Blog Post,,2026-08-09 17:00:00,Sunday,17,5582,488.41,77
-Client_13,FinTech,Facebook,Infographic,Education,2026-09-22 13:00:00,Tuesday,13,14207,81.41,66
-Client_08,E-commerce,YouTube,Infographic,Customer Success,2025-02-16 19:00:00,Sunday,19,12490,299.61,67
-Client_15,FinTech,LinkedIn,Infographic,Trends,2024-07-18 01:00:00,Thursday,1,4740,386.51,68
-Client_15,Real Estate,LinkedIn,Carousel,Education,2026-04-23 06:00:00,Thursday,6,11680,414.62,66
-Client_12,Real Estate,LinkedIn,Blog Post,Trends,2025-10-01 02:00:00,Wednesday,2,7528,236.22,70
-Client_02,Fashion,Instagram,Infographic,Customer Success,2024-04-13 19:00:00,Saturday,19,13106,141.87,72
-Client_07,Real Estate,Instagram,Blog Post,Trends,2025-09-30 16:00:00,Tuesday,16,3349,69.05,72
-Client_03,Real Estate,Instagram,Case Study,Promo,2025-08-31 07:00:00,Sunday,7,9997,310.88,80
-Client_08,E-commerce,Instagram,Case Study,Promo,2026-03-23 20:00:00,Monday,20,13305,253.81,84
-Client_07,Real Estate,LinkedIn,Infographic,Trends,2026-07-08 19:00:00,Wednesday,19,4249,476.93,69
-Client_14,Fashion,LinkedIn,Blog Post,Education,2024-05-07 03:00:00,Tuesday,3,14656,77.27,69
-Client_08,SaaS,Instagram,Blog Post,,2025-10-27 19:00:00,Monday,19,8180,358.43,67
-Client_14,E-commerce,YouTube,Blog Post,,2025-11-13 20:00:00,Thursday,20,10827,61.23,62
-Client_07,SaaS,Instagram,Carousel,Trends,2026-06-19 06:00:00,Friday,6,1705,127.15,73
-Client_11,E-commerce,X,Case Study,Education,2026-06-23 03:00:00,Tuesday,3,8852,254.11,71
-Client_06,Health,X,Blog Post,Customer Success,2026-06-04 13:00:00,Thursday,13,6091,254.69,58
-Client_13,FinTech,Instagram,Blog Post,Promo,2024-02-06 12:00:00,Tuesday,12,4950,358.57,67
-Client_07,Health,LinkedIn,Carousel,Customer Success,2026-12-01 07:00:00,Tuesday,7,8714,459.6,69
-Client_05,Real Estate,Instagram,Carousel,Education,2026-09-02 11:00:00,Wednesday,11,5311,337.56,69
-Client_07,SaaS,LinkedIn,Blog Post,Customer Success,2024-06-21 14:00:00,Friday,14,13314,479.09,66
-Client_01,Real Estate,YouTube,Reel,Education,2025-09-25 10:00:00,Thursday,10,13291,446.73,81
-Client_01,FinTech,Instagram,Blog Post,Trends,2024-10-17 06:00:00,Thursday,6,12243,313.02,77
-Client_09,E-commerce,LinkedIn,Blog Post,Customer Success,2024-10-21 23:00:00,Monday,23,6641,425.21,65
-Client_14,FinTech,Instagram,Carousel,Trends,2024-11-28 19:00:00,Thursday,19,14000,339.16,74
-Client_05,Fashion,Instagram,Carousel,Trends,2024-10-10 07:00:00,Thursday,7,10001,85.35,73
-Client_13,FinTech,YouTube,Blog Post,Behind the Scenes,2024-07-05 01:00:00,Friday,1,4208,383.25,62
-Client_05,Fashion,Instagram,Blog Post,Education,2025-12-10 03:00:00,Wednesday,3,3491,92.71,72
-Client_03,FinTech,LinkedIn,Blog Post,Promo,2025-07-13 01:00:00,Sunday,1,9963,317.34,71
-Client_05,Fashion,LinkedIn,Carousel,Education,2026-01-23 05:00:00,Friday,5,13334,366.19,67
-Client_03,SaaS,X,Blog Post,Promo,2026-12-30 02:00:00,Wednesday,2,13778,79.94,59
-Client_09,Real Estate,Instagram,Blog Post,Education,2026-05-30 16:00:00,Saturday,16,11514,153.86,79
-Client_09,Real Estate,LinkedIn,Infographic,,2024-12-12 07:00:00,Thursday,7,4773,462.05,70
-Client_06,Health,YouTube,Reel,,2025-12-18 06:00:00,Thursday,6,6038,,74
-Client_15,Real Estate,LinkedIn,Case Study,Customer Success,2025-08-10 10:00:00,Sunday,10,14041,160.83,76
-Client_01,E-commerce,X,Reel,,2024-08-03 17:00:00,Saturday,17,10212,360.81,81
-Client_07,FinTech,YouTube,Infographic,Promo,2025-08-17 06:00:00,Sunday,6,10668,318.55,66
-Client_07,Health,YouTube,Case Study,,2026-12-17 01:00:00,Thursday,1,5222,275.71,71
-Client_14,E-commerce,YouTube,Blog Post,Promo,2026-11-20 20:00:00,Friday,20,5051,489.28,62
-Client_10,E-commerce,X,Infographic,Trends,2024-12-12 04:00:00,Thursday,4,13797,357.55,69
-Client_10,Fashion,X,Blog Post,Promo,2024-09-04 21:00:00,Wednesday,21,12465,218.95,64
-Client_04,Real Estate,YouTube,Carousel,Customer Success,2026-03-11 22:00:00,Wednesday,22,12244,410.03,62
-Client_08,SaaS,YouTube,Infographic,Trends,2024-02-17 22:00:00,Saturday,22,4332,448.06,65
-Client_06,SaaS,Instagram,Carousel,Education,2026-09-24 16:00:00,Thursday,16,13599,106.35,74
-Client_04,Health,Instagram,Infographic,Promo,2024-03-21 11:00:00,Thursday,11,7179,140.25,74
-Client_04,SaaS,LinkedIn,Infographic,Promo,2025-01-18 12:00:00,Saturday,12,8079,147.3,69
-Client_02,FinTech,Instagram,Carousel,Education,2026-01-22 00:00:00,Thursday,0,14922,361.05,75
-Client_14,SaaS,LinkedIn,Case Study,Promo,2024-02-15 01:00:00,Thursday,1,1652,321.37,70
-Client_02,Health,Instagram,Reel,Education,2025-12-05 00:00:00,Friday,0,7254,328.55,83
-Client_12,SaaS,Instagram,Blog Post,Trends,2025-07-12 15:00:00,Saturday,15,12656,473.35,78
-Client_14,FinTech,YouTube,Infographic,Customer Success,2024-11-21 05:00:00,Thursday,5,12608,399.16,64
-Client_04,Fashion,X,Blog Post,Education,2024-08-06 05:00:00,Tuesday,5,4300,107.57,64
-Client_05,Health,Instagram,Carousel,Behind the Scenes,2025-12-06 23:00:00,Saturday,23,6810,206.38,67
-Client_08,Fashion,LinkedIn,Blog Post,Education,2026-04-15 16:00:00,Wednesday,16,11444,245.93,72
-Client_15,Fashion,Facebook,Carousel,Promo,2025-06-16 07:00:00,Monday,7,4110,228.18,60
-Client_06,Fashion,Instagram,Blog Post,Trends,2026-09-18 04:00:00,Friday,4,13567,351.19,71
-Client_14,E-commerce,Facebook,Reel,Trends,2025-11-07 20:00:00,Friday,20,2604,451.35,76
-Client_15,Real Estate,LinkedIn,Reel,Education,2025-07-03 08:00:00,Thursday,8,12228,187.72,81
-Client_04,E-commerce,Instagram,Reel,Customer Success,2024-05-19 07:00:00,Sunday,7,14682,298.34,89
-Client_13,Real Estate,X,Reel,Behind the Scenes,2025-07-16 12:00:00,Wednesday,12,14899,405.23,79
-Client_11,Fashion,Instagram,Reel,Trends,2026-05-02 06:00:00,Saturday,6,8861,237.3,91
-Client_07,Health,YouTube,Reel,Promo,2025-02-06 14:00:00,Thursday,14,5699,125.65,82
-Client_08,Real Estate,Facebook,Carousel,Promo,2025-12-07 20:00:00,Sunday,20,5354,263.73,67
-Client_02,FinTech,Instagram,Infographic,,2025-09-22 05:00:00,Monday,5,8763,74.85,66
-Client_12,FinTech,YouTube,Blog Post,Trends,2026-09-01 12:00:00,Tuesday,12,13186,474.07,61
-Client_07,SaaS,X,Reel,Education,2024-12-04 18:00:00,Wednesday,18,3414,83.67,70
-Client_15,Real Estate,Instagram,Carousel,Promo,2026-03-24 19:00:00,Tuesday,19,8865,247.31,70
-Client_14,Health,Facebook,Carousel,Customer Success,2026-05-09 17:00:00,Saturday,17,4572,288.45,60
-Client_02,E-commerce,LinkedIn,Carousel,Trends,2024-03-10 23:00:00,Sunday,23,10698,493.39,70
-Client_02,Fashion,YouTube,Infographic,Trends,2024-05-26 02:00:00,Sunday,2,1906,124.71,59
-Client_08,SaaS,YouTube,Blog Post,Trends,2025-07-07 12:00:00,Monday,12,1666,101.49,59
-Client_02,FinTech,Instagram,Infographic,Trends,2024-10-29 05:00:00,Tuesday,5,2008,53.92,71
-Client_15,E-commerce,X,Case Study,Trends,2026-03-08 00:00:00,Sunday,0,3161,120.01,63
-Client_11,E-commerce,X,Carousel,Promo,2025-01-28 03:00:00,Tuesday,3,5164,143.27,60
-Client_09,Fashion,YouTube,Case Study,Customer Success,2026-06-17 20:00:00,Wednesday,20,4989,333.76,68
-Client_12,Real Estate,YouTube,Reel,Trends,2025-04-16 06:00:00,Wednesday,6,14550,148.87,78
-Client_01,FinTech,YouTube,Reel,Behind the Scenes,2025-07-08 00:00:00,Tuesday,0,2180,59.23,76
-Client_15,Health,LinkedIn,Infographic,Behind the Scenes,2026-02-10 21:00:00,Tuesday,21,4024,421.98,71
-Client_09,E-commerce,YouTube,Blog Post,Customer Success,2025-07-05 21:00:00,Saturday,21,3620,214.52,65
-Client_15,Fashion,LinkedIn,Case Study,Education,2025-04-09 15:00:00,Wednesday,15,6760,209.16,72
-Client_01,Health,LinkedIn,Blog Post,Education,2025-03-11 17:00:00,Tuesday,17,14369,186.12,68
-Client_10,Real Estate,YouTube,Infographic,Education,2026-08-16 09:00:00,Sunday,9,5857,488.92,62
-Client_13,FinTech,LinkedIn,Reel,Behind the Scenes,2024-04-13 07:00:00,Saturday,7,2863,126.55,80
-Client_10,Real Estate,Instagram,Blog Post,Education,2026-08-10 20:00:00,Monday,20,11023,454.21,74
-Client_02,E-commerce,Instagram,Blog Post,Promo,2026-12-28 03:00:00,Monday,3,3792,399.56,66
-Client_06,Health,LinkedIn,Reel,Trends,2026-09-18 21:00:00,Friday,21,3038,84.42,84
-Client_06,Health,YouTube,Case Study,Behind the Scenes,2024-07-04 12:00:00,Thursday,12,4908,494.03,74
-Client_01,Health,LinkedIn,Reel,Customer Success,2024-09-02 01:00:00,Monday,1,9242,172.11,82
-Client_07,E-commerce,YouTube,Blog Post,Customer Success,2026-08-18 09:00:00,Tuesday,9,10252,94.36,62
-Client_08,E-commerce,LinkedIn,Case Study,Trends,2025-08-09 05:00:00,Saturday,5,10791,423.19,76
-Client_02,Real Estate,YouTube,Case Study,Behind the Scenes,2024-04-28 17:00:00,Sunday,17,3403,368.0,72
-Client_08,SaaS,Instagram,Reel,Education,2024-11-03 22:00:00,Sunday,22,1674,327.75,85
-Client_09,Real Estate,LinkedIn,Blog Post,Education,2026-08-28 09:00:00,Friday,9,11848,120.19,71
-Client_06,FinTech,YouTube,Infographic,Promo,2025-05-11 18:00:00,Sunday,18,3730,265.32,63
-Client_05,Fashion,Facebook,Blog Post,Promo,2024-04-13 17:00:00,Saturday,17,5787,401.25,70
-Client_12,Health,LinkedIn,Carousel,Education,2025-02-13 07:00:00,Thursday,7,5660,186.63,66
-Client_09,SaaS,Instagram,Infographic,Customer Success,2025-01-18 15:00:00,Saturday,15,13612,190.26,68
-Client_13,Fashion,Instagram,Case Study,Customer Success,2025-02-01 12:00:00,Saturday,12,8606,51.41,76
-Client_12,SaaS,Instagram,Infographic,Promo,2025-11-12 20:00:00,Wednesday,20,11189,128.41,74
-Client_11,Real Estate,YouTube,Case Study,Trends,2024-07-11 03:00:00,Thursday,3,13546,443.93,74
-Client_09,E-commerce,Instagram,Case Study,Education,2026-03-11 23:00:00,Wednesday,23,4671,248.79,77
-Client_01,Health,LinkedIn,Infographic,Promo,2026-11-03 23:00:00,Tuesday,23,3067,492.91,66
-Client_11,Real Estate,LinkedIn,Case Study,,2024-09-01 22:00:00,Sunday,22,2651,228.07,75
-Client_03,Fashion,Instagram,Case Study,,2025-11-12 03:00:00,Wednesday,3,9119,371.83,77
-Client_09,Fashion,LinkedIn,Carousel,Education,2026-11-27 07:00:00,Friday,7,7533,176.86,66
-Client_11,Fashion,Instagram,Blog Post,Customer Success,2026-08-03 07:00:00,Monday,7,10060,213.71,70
-Client_02,Fashion,LinkedIn,Blog Post,,2024-02-05 11:00:00,Monday,11,6446,135.83,71
-Client_12,Fashion,Instagram,Carousel,Trends,2026-01-22 23:00:00,Thursday,23,9734,206.18,78
-Client_04,SaaS,Facebook,Infographic,Education,2024-10-11 17:00:00,Friday,17,3407,296.26,57
-Client_04,Real Estate,Instagram,Reel,Behind the Scenes,2025-05-12 10:00:00,Monday,10,4990,496.3,87
-Client_02,Health,X,Reel,Promo,2024-04-11 03:00:00,Thursday,3,4035,348.89,81
-Client_15,E-commerce,LinkedIn,Reel,Promo,2026-12-25 08:00:00,Friday,8,5673,139.66,84
-Client_03,E-commerce,Facebook,Carousel,,2024-06-15 16:00:00,Saturday,16,12565,70.23,62
-Client_13,Real Estate,YouTube,Carousel,Behind the Scenes,2024-07-29 12:00:00,Monday,12,11516,106.86,59
-Client_03,Real Estate,YouTube,Case Study,Customer Success,2024-04-24 02:00:00,Wednesday,2,2793,,72
-Client_01,E-commerce,YouTube,Reel,Education,2026-07-10 12:00:00,Friday,12,6269,394.32,79
-Client_06,E-commerce,LinkedIn,Infographic,Education,2024-08-12 11:00:00,Monday,11,6296,473.19,63
-Client_08,SaaS,LinkedIn,Infographic,,2024-11-29 10:00:00,Friday,10,14546,57.12,72
-Client_12,FinTech,LinkedIn,Reel,Education,2024-08-18 16:00:00,Sunday,16,8371,,78
-Client_03,Health,LinkedIn,Reel,Education,2025-07-15 15:00:00,Tuesday,15,13078,261.89,83
-Client_05,Fashion,Instagram,Reel,Education,2024-06-12 01:00:00,Wednesday,1,4472,345.22,86
-Client_01,FinTech,LinkedIn,Carousel,Promo,2025-12-28 02:00:00,Sunday,2,5422,301.81,72
-Client_10,Real Estate,YouTube,Carousel,Customer Success,2026-10-01 11:00:00,Thursday,11,6497,359.17,62
-Client_07,E-commerce,LinkedIn,Carousel,Customer Success,2026-05-15 04:00:00,Friday,4,8532,346.14,67
-Client_10,FinTech,YouTube,Blog Post,Education,2025-03-19 04:00:00,Wednesday,4,2492,102.66,57
-Client_13,Health,YouTube,Infographic,Promo,2026-05-03 19:00:00,Sunday,19,9612,409.87,61
-Client_01,Real Estate,X,Infographic,Customer Success,2024-08-26 14:00:00,Monday,14,6787,105.45,60
-Client_12,Fashion,Instagram,Case Study,Customer Success,2024-05-20 13:00:00,Monday,13,12078,,78
-Client_11,Fashion,LinkedIn,Carousel,Customer Success,2025-05-21 17:00:00,Wednesday,17,3740,237.27,67
+Client_13,Health,YouTube,Case Study,Promo,2026-09-12 14:00:00,Saturday,14,13492,188.98,89
+Client_15,E-commerce,YouTube,Blog Post,Promo,2025-10-20 03:00:00,Monday,3,8594,267.02,77
+Client_14,SaaS,Instagram,Carousel,Trends,2024-02-05 20:00:00,Monday,20,14693,103.32,98
+Client_13,E-commerce,Instagram,Blog Post,Behind the Scenes,2024-08-12 14:00:00,Monday,14,7818,482.68,84
+Client_01,Fashion,YouTube,Reel,,2026-06-17 23:00:00,Wednesday,23,13810,371.48,98
+Client_08,SaaS,LinkedIn,Case Study,Behind the Scenes,2025-05-13 12:00:00,Tuesday,12,5296,478.61,91
+Client_12,Health,YouTube,Carousel,Education,2025-04-15 04:00:00,Tuesday,4,13680,152.03,90
+Client_03,SaaS,Instagram,Infographic,Behind the Scenes,2026-07-10 14:00:00,Friday,14,9999999,445.7,84
+Client_12,SaaS,LinkedIn,Carousel,Education,2024-09-18 01:00:00,Wednesday,1,14912,413.96,89
+Client_08,SaaS,LinkedIn,Infographic,Education,2025-12-03 02:00:00,Wednesday,2,10620,354.72,86
+Client_08,Real Estate,LinkedIn,Carousel,,2024-07-03 10:00:00,Wednesday,10,5107,331.26,91
+Client_13,SaaS,YouTube,Blog Post,Trends,2026-07-04 02:00:00,Saturday,2,9543,192.45,80
+Client_05,E-commerce,LinkedIn,Blog Post,Behind the Scenes,2025-08-23 23:00:00,Saturday,23,2022,417.38,76
+Client_13,Fashion,LinkedIn,Blog Post,Education,2025-04-18 11:00:00,Friday,11,7404,275.68,86
+Client_12,FinTech,LinkedIn,Reel,Behind the Scenes,2025-10-29 15:00:00,Wednesday,15,13215,81.9,92
+Client_13,SaaS,LinkedIn,Infographic,Trends,2024-12-12 18:00:00,Thursday,18,14218,190.79,95
+Client_01,Health,YouTube,Blog Post,Trends,2024-03-11 05:00:00,Monday,5,6388,470.88,85
+Client_13,SaaS,Instagram,Reel,,2024-02-02 01:00:00,Friday,1,11321,432.81,96
+Client_10,Health,LinkedIn,Infographic,Trends,2026-08-30 05:00:00,Sunday,5,7332,491.86,88
+Client_07,E-commerce,LinkedIn,Carousel,Customer Success,2024-04-11 09:00:00,Thursday,9,14320,332.6,96
+Client_12,Health,YouTube,Reel,Education,2024-08-09 07:00:00,Friday,7,8622,,92
+Client_10,FinTech,LinkedIn,Case Study,Promo,2024-07-29 11:00:00,Monday,11,7342,123.27,89
+Client_05,Fashion,Facebook,Reel,,2024-09-24 12:00:00,Tuesday,12,2816,134.11,95
+Client_08,Health,X,Reel,Behind the Scenes,2026-01-02 00:00:00,Friday,0,12549,58.91,89
+Client_09,Health,Instagram,Infographic,Education,2026-05-22 11:00:00,Friday,11,14700,225.81,98
+Client_11,Fashion,Instagram,Carousel,Trends,2026-04-03 17:00:00,Friday,17,2624,136.14,85
+Client_14,FinTech,LinkedIn,Case Study,Education,2024-09-23 12:00:00,Monday,12,7121,235.24,89
+Client_07,SaaS,Instagram,Blog Post,Behind the Scenes,2024-12-27 02:00:00,Friday,2,6923,470.75,86
+Client_14,Health,YouTube,Blog Post,Promo,2026-12-05 02:00:00,Saturday,2,4087,243.74,76
+Client_13,Fashion,X,Reel,Promo,2026-02-28 06:00:00,Saturday,6,10715,445.09,81
+Client_15,E-commerce,Instagram,Infographic,Promo,2026-10-06 17:00:00,Tuesday,17,7172,322.48,91
+Client_07,Fashion,Instagram,Infographic,Trends,2026-02-06 23:00:00,Friday,23,2878,161.21,87
+Client_01,E-commerce,Instagram,Blog Post,,2024-04-24 11:00:00,Wednesday,11,4874,210.13,94
+Client_15,FinTech,YouTube,Case Study,Customer Success,2026-11-30 15:00:00,Monday,15,3019,87.76,96
+Client_04,SaaS,LinkedIn,Carousel,Education,2024-01-08 21:00:00,Monday,21,7277,200.06,93
+Client_02,Fashion,Instagram,Case Study,Trends,2026-03-07 14:00:00,Saturday,14,9435,354.89,95
+Client_02,Real Estate,X,Carousel,Promo,2024-05-05 05:00:00,Sunday,5,7593,82.45,69
+Client_02,Health,YouTube,Blog Post,Promo,2026-05-26 18:00:00,Tuesday,18,9918,142.43,82
+Client_04,FinTech,Instagram,Carousel,Behind the Scenes,2024-03-20 03:00:00,Wednesday,3,6855,221.65,89
+Client_14,Fashion,YouTube,Infographic,,2026-10-01 22:00:00,Thursday,22,6468,491.92,78
+Client_01,Health,YouTube,Reel,Promo,2024-02-22 19:00:00,Thursday,19,10583,403.19,98
+Client_15,Fashion,LinkedIn,Reel,Promo,2026-01-16 08:00:00,Friday,8,7074,380.07,87
+Client_04,E-commerce,Instagram,Blog Post,Trends,2025-04-19 18:00:00,Saturday,18,5572,102.29,91
+Client_02,Fashion,Instagram,Infographic,,2024-05-28 04:00:00,Tuesday,4,14824,401.45,95
+Client_05,Real Estate,Instagram,Case Study,Behind the Scenes,2024-06-11 02:00:00,Tuesday,2,3757,403.37,94
+Client_03,Fashion,Facebook,Infographic,Customer Success,2025-01-03 06:00:00,Friday,6,12480,320.5,88
+Client_15,Fashion,X,Reel,Trends,2025-08-27 06:00:00,Wednesday,6,10088,495.66,95
+Client_12,Real Estate,Instagram,Reel,Promo,2026-06-26 09:00:00,Friday,9,14911,196.36,97
+Client_08,FinTech,Instagram,Infographic,Customer Success,2025-03-18 19:00:00,Tuesday,19,11770,473.57,98
+Client_04,Fashion,Instagram,Infographic,Promo,2025-01-01 08:00:00,Wednesday,8,14436,461.63,85
+Client_01,Real Estate,Instagram,Reel,Promo,2025-03-15 19:00:00,Saturday,19,5924,55.17,98
+Client_01,Health,Facebook,Case Study,,2025-03-03 05:00:00,Monday,5,4737,252.55,89
+Client_12,E-commerce,Instagram,Blog Post,Customer Success,2024-12-17 09:00:00,Tuesday,9,5393,489.7,89
+Client_10,E-commerce,Instagram,Blog Post,Customer Success,2025-03-02 09:00:00,Sunday,9,14739,96.4,94
+Client_03,Fashion,Instagram,Infographic,,2025-04-04 00:00:00,Friday,0,3505,296.5,85
+Client_15,FinTech,YouTube,Blog Post,Trends,2026-09-22 17:00:00,Tuesday,17,3516,490.53,84
+Client_09,FinTech,LinkedIn,Reel,Education,2024-04-18 20:00:00,Thursday,20,12863,299.97,98
+Client_07,Health,YouTube,Reel,Promo,2026-09-03 01:00:00,Thursday,1,12360,135.42,90
+Client_02,Fashion,Instagram,Infographic,Behind the Scenes,2026-12-16 19:00:00,Wednesday,19,11570,311.98,97
+Client_15,E-commerce,YouTube,Infographic,Behind the Scenes,2026-07-31 11:00:00,Friday,11,10888,142.0,83
+Client_13,FinTech,YouTube,Infographic,Education,2026-06-30 06:00:00,Tuesday,6,3272,283.87,90
+Client_09,Fashion,Instagram,Case Study,Trends,2026-09-05 11:00:00,Saturday,11,9853,83.32,96
+Client_10,FinTech,LinkedIn,Blog Post,Promo,2026-12-21 14:00:00,Monday,14,5476,322.47,75
+Client_02,Real Estate,Facebook,Infographic,Customer Success,2025-10-19 19:00:00,Sunday,19,3251,282.56,88
+Client_03,FinTech,X,Carousel,Education,2025-12-15 23:00:00,Monday,23,10467,383.07,85
+Client_11,E-commerce,LinkedIn,Carousel,Trends,2025-05-23 14:00:00,Friday,14,8930,333.82,84
+Client_13,SaaS,LinkedIn,Reel,Customer Success,2024-12-08 18:00:00,Sunday,18,8670,297.32,98
+Client_10,Health,X,Blog Post,Behind the Scenes,2025-08-28 21:00:00,Thursday,21,14839,360.4,85
+Client_14,Health,LinkedIn,Infographic,Behind the Scenes,2024-05-11 08:00:00,Saturday,8,7969,114.77,78
+Client_02,E-commerce,Instagram,Carousel,Customer Success,2024-03-07 01:00:00,Thursday,1,10631,317.91,91
+Client_03,FinTech,X,Blog Post,Education,2024-06-13 07:00:00,Thursday,7,4720,127.45,80
+Client_06,Fashion,Instagram,Reel,Behind the Scenes,2026-09-24 11:00:00,Thursday,11,2039,466.48,98
+Client_09,FinTech,LinkedIn,Case Study,Promo,2026-03-21 17:00:00,Saturday,17,14609,80.75,84
+Client_09,E-commerce,Instagram,Blog Post,Customer Success,2024-02-12 13:00:00,Monday,13,2961,243.67,93
+Client_07,Health,Instagram,Blog Post,Customer Success,2025-04-30 13:00:00,Wednesday,13,6684,363.11,89
+Client_12,FinTech,Instagram,Case Study,Behind the Scenes,2025-03-26 05:00:00,Wednesday,5,10047,256.11,94
+Client_03,Health,YouTube,Blog Post,Education,2025-07-13 01:00:00,Sunday,1,13296,91.44,83
+Client_04,Fashion,Instagram,Reel,Promo,2026-04-22 19:00:00,Wednesday,19,13015,299.02,98
+Client_06,Health,Instagram,Reel,Education,2024-11-28 21:00:00,Thursday,21,1734,338.73,98
+Client_11,Health,Instagram,Case Study,Trends,2025-02-07 20:00:00,Friday,20,3048,366.71,98
+Client_05,SaaS,LinkedIn,Infographic,Trends,2025-06-25 06:00:00,Wednesday,6,8980,217.97,86
+Client_02,SaaS,X,Carousel,Behind the Scenes,2024-10-13 09:00:00,Sunday,9,11788,303.65,79
+Client_13,Real Estate,LinkedIn,Infographic,Behind the Scenes,2024-08-24 11:00:00,Saturday,11,5713,252.81,80
+Client_06,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-01-07 17:00:00,Sunday,17,11793,352.43,76
+Client_03,Health,Facebook,Carousel,Trends,2024-06-28 01:00:00,Friday,1,3173,312.6,79
+Client_14,E-commerce,LinkedIn,Case Study,,2024-02-11 11:00:00,Sunday,11,8208,286.59,98
+Client_08,Health,Instagram,Case Study,Education,2025-04-25 14:00:00,Friday,14,14855,162.29,95
+Client_02,E-commerce,Instagram,Carousel,Behind the Scenes,2024-11-13 21:00:00,Wednesday,21,9482,50.91,92
+Client_01,E-commerce,Instagram,Reel,Promo,2026-12-13 03:00:00,Sunday,3,3600,128.34,88
+Client_09,SaaS,LinkedIn,Carousel,Education,2024-02-12 08:00:00,Monday,8,13349,102.68,84
+Client_14,FinTech,LinkedIn,Blog Post,Trends,2026-10-07 13:00:00,Wednesday,13,14345,252.09,81
+Client_12,Fashion,YouTube,Reel,Customer Success,2026-08-08 23:00:00,Saturday,23,13288,325.52,98
+Client_03,SaaS,Instagram,Case Study,Customer Success,2026-10-08 12:00:00,Thursday,12,5248,145.89,98
+Client_11,SaaS,LinkedIn,Carousel,Customer Success,2026-08-26 15:00:00,Wednesday,15,4673,472.58,88
+Client_01,FinTech,YouTube,Infographic,Promo,2026-10-09 12:00:00,Friday,12,3315,53.01,85
+Client_07,Fashion,LinkedIn,Infographic,Behind the Scenes,2024-12-21 09:00:00,Saturday,9,5341,397.54,84
+Client_13,Health,Facebook,Blog Post,,2025-12-20 06:00:00,Saturday,6,11697,331.34,76
+Client_15,Real Estate,LinkedIn,Infographic,Promo,2025-01-21 04:00:00,Tuesday,4,9516,218.1,75
+Client_10,Real Estate,Instagram,Carousel,Trends,2026-06-05 07:00:00,Friday,7,8511,,92
+Client_05,Health,YouTube,Carousel,Trends,2025-05-22 17:00:00,Thursday,17,5993,332.37,92
+Client_05,SaaS,LinkedIn,Infographic,Behind the Scenes,2026-06-04 03:00:00,Thursday,3,2174,223.53,72
+Client_14,Fashion,LinkedIn,Carousel,Customer Success,2024-09-20 19:00:00,Friday,19,9588,471.32,98
+Client_01,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-12-23 03:00:00,Monday,3,10078,293.9,78
+Client_15,E-commerce,LinkedIn,Reel,Promo,2026-11-10 12:00:00,Tuesday,12,3658,472.84,95
+Client_15,SaaS,YouTube,Blog Post,Promo,2024-10-27 08:00:00,Sunday,8,4161,149.22,81
+Client_09,SaaS,Instagram,Blog Post,Promo,2024-08-07 20:00:00,Wednesday,20,3564,376.58,86
+Client_07,Health,Instagram,Carousel,,2026-02-07 14:00:00,Saturday,14,13543,327.76,83
+Client_08,Health,Instagram,Reel,,2025-11-16 08:00:00,Sunday,8,4753,382.73,98
+Client_09,Health,YouTube,Carousel,Trends,2025-11-06 16:00:00,Thursday,16,6479,146.6,90
+Client_06,Real Estate,Instagram,Case Study,,2024-11-29 14:00:00,Friday,14,9203,349.25,96
+Client_12,E-commerce,Facebook,Carousel,Promo,2024-04-17 00:00:00,Wednesday,0,14328,,76
+Client_05,Health,LinkedIn,Carousel,Trends,2026-06-29 07:00:00,Monday,7,13958,384.27,85
+Client_06,Fashion,Facebook,Carousel,Education,2024-03-25 11:00:00,Monday,11,10431,,90
+Client_11,Real Estate,X,Reel,Trends,2024-04-22 07:00:00,Monday,7,2901,450.53,88
+Client_02,FinTech,Facebook,Carousel,Promo,2026-12-22 07:00:00,Tuesday,7,4759,87.94,75
+Client_04,Fashion,Facebook,Reel,Customer Success,2025-10-04 14:00:00,Saturday,14,11969,413.24,97
+Client_03,Fashion,LinkedIn,Infographic,Promo,2024-08-07 02:00:00,Wednesday,2,13596,437.59,79
+Client_13,Health,LinkedIn,Case Study,Behind the Scenes,2026-07-05 18:00:00,Sunday,18,5423,417.76,97
+Client_07,FinTech,Instagram,Reel,Trends,2024-10-07 16:00:00,Monday,16,5714,280.73,98
+Client_09,FinTech,Instagram,Infographic,,2024-01-17 07:00:00,Wednesday,7,4727,247.27,86
+Client_05,Real Estate,LinkedIn,Reel,Behind the Scenes,2025-08-05 18:00:00,Tuesday,18,12523,498.32,98
+Client_06,FinTech,LinkedIn,Reel,Behind the Scenes,2025-06-11 18:00:00,Wednesday,18,13450,153.13,98
+Client_10,E-commerce,Instagram,Case Study,Customer Success,2024-09-02 12:00:00,Monday,12,12204,296.09,98
+Client_14,Health,LinkedIn,Blog Post,Trends,2024-05-28 09:00:00,Tuesday,9,11843,351.8,77
+Client_12,FinTech,Facebook,Blog Post,Trends,2024-09-14 16:00:00,Saturday,16,13367,365.39,81
+Client_12,Real Estate,LinkedIn,Reel,Customer Success,2026-03-22 19:00:00,Sunday,19,4245,141.81,98
+Client_02,E-commerce,YouTube,Carousel,Education,2026-08-02 06:00:00,Sunday,6,7591,344.3,85
+Client_03,SaaS,Facebook,Infographic,Customer Success,2024-12-15 16:00:00,Sunday,16,5366,418.27,87
+Client_03,SaaS,X,Carousel,Promo,2025-06-28 11:00:00,Saturday,11,13456,72.51,76
+Client_12,E-commerce,YouTube,Carousel,Trends,2025-09-28 01:00:00,Sunday,1,7318,460.18,85
+Client_12,Real Estate,Facebook,Reel,Behind the Scenes,2026-03-23 00:00:00,Monday,0,9999999,63.28,86
+Client_15,E-commerce,X,Reel,Promo,2026-09-10 07:00:00,Thursday,7,4292,210.19,88
+Client_09,Health,X,Reel,Trends,2024-04-12 06:00:00,Friday,6,11389,57.12,87
+Client_15,Health,Instagram,Reel,Customer Success,2025-05-08 05:00:00,Thursday,5,13154,84.72,98
+Client_07,SaaS,LinkedIn,Blog Post,Promo,2025-08-07 23:00:00,Thursday,23,5563,460.03,77
+Client_08,FinTech,Instagram,Reel,Trends,2026-11-23 12:00:00,Monday,12,3024,209.69,98
+Client_11,Real Estate,Instagram,Blog Post,Education,2026-03-07 11:00:00,Saturday,11,14452,241.15,95
+Client_10,SaaS,YouTube,Blog Post,Education,2025-04-01 21:00:00,Tuesday,21,9724,146.9,89
+Client_11,FinTech,YouTube,Reel,Behind the Scenes,2026-10-19 10:00:00,Monday,10,7698,318.69,96
+Client_09,FinTech,Facebook,Case Study,Trends,2025-02-10 18:00:00,Monday,18,5525,317.66,90
+Client_06,Health,Instagram,Infographic,Education,2024-07-29 16:00:00,Monday,16,4066,217.49,88
+Client_04,Fashion,Facebook,Carousel,Customer Success,2025-09-14 20:00:00,Sunday,20,4303,199.87,90
+Client_12,Fashion,YouTube,Blog Post,Trends,2024-12-03 22:00:00,Tuesday,22,13588,448.23,84
+Client_01,E-commerce,YouTube,Infographic,Customer Success,2025-07-27 21:00:00,Sunday,21,5209,222.48,96
+Client_08,Health,X,Case Study,,2026-04-22 16:00:00,Wednesday,16,7655,272.08,91
+Client_07,FinTech,YouTube,Carousel,Education,2025-12-26 12:00:00,Friday,12,2219,177.49,91
+Client_02,Real Estate,Instagram,Carousel,Trends,2026-09-17 09:00:00,Thursday,9,8016,404.05,89
+Client_08,Fashion,Facebook,Blog Post,Promo,2024-01-21 22:00:00,Sunday,22,6079,228.85,72
+Client_12,FinTech,LinkedIn,Reel,,2024-10-14 22:00:00,Monday,22,9999999,281.12,92
+Client_05,Fashion,Instagram,Case Study,Education,2025-06-12 13:00:00,Thursday,13,5218,164.01,98
+Client_07,Fashion,Facebook,Blog Post,Trends,2026-11-26 06:00:00,Thursday,6,8895,494.45,79
+Client_04,Fashion,Instagram,Case Study,Trends,2026-08-29 18:00:00,Saturday,18,5902,181.17,98
+Client_05,Real Estate,YouTube,Reel,Customer Success,2026-05-19 16:00:00,Tuesday,16,6052,,98
+Client_08,Health,LinkedIn,Reel,Trends,2024-01-09 14:00:00,Tuesday,14,3707,242.37,92
+Client_01,Real Estate,Facebook,Blog Post,Customer Success,2026-06-15 14:00:00,Monday,14,5926,142.8,83
+Client_01,SaaS,Instagram,Reel,Education,2026-07-20 17:00:00,Monday,17,8419,409.87,98
+Client_15,FinTech,X,Infographic,Behind the Scenes,2026-10-01 09:00:00,Thursday,9,14012,200.12,71
+Client_04,Health,YouTube,Carousel,Promo,2026-09-02 19:00:00,Wednesday,19,12722,439.34,88
+Client_03,Health,Instagram,Blog Post,Education,2026-01-14 12:00:00,Wednesday,12,13267,461.87,93
+Client_13,Health,LinkedIn,Case Study,Trends,2026-10-07 02:00:00,Wednesday,2,12808,436.92,90
+Client_10,Health,X,Infographic,Promo,2025-10-25 22:00:00,Saturday,22,12977,65.75,77
+Client_12,Real Estate,LinkedIn,Blog Post,Behind the Scenes,2025-12-19 15:00:00,Friday,15,14870,404.32,80
+Client_02,Health,Instagram,Reel,,2026-03-09 22:00:00,Monday,22,10335,235.1,98
+Client_12,E-commerce,LinkedIn,Reel,Customer Success,2026-09-18 08:00:00,Friday,8,14403,443.18,94
+Client_03,FinTech,LinkedIn,Reel,,2024-12-30 19:00:00,Monday,19,9886,337.08,98
+Client_11,Health,YouTube,Reel,Customer Success,2026-06-14 20:00:00,Sunday,20,13688,425.14,98
+Client_15,FinTech,YouTube,Case Study,Education,2025-05-30 23:00:00,Friday,23,10180,274.74,91
+Client_15,E-commerce,LinkedIn,Infographic,Promo,2026-07-22 11:00:00,Wednesday,11,3704,290.76,80
+Client_11,E-commerce,Instagram,Carousel,Education,2026-01-25 21:00:00,Sunday,21,12349,114.97,95
+Client_14,FinTech,YouTube,Case Study,Customer Success,2025-09-09 12:00:00,Tuesday,12,6845,402.79,98
+Client_11,Fashion,LinkedIn,Case Study,Promo,2024-11-11 14:00:00,Monday,14,4776,238.73,83
+Client_01,SaaS,Instagram,Carousel,Customer Success,2024-09-22 14:00:00,Sunday,14,2602,275.04,93
+Client_01,Fashion,X,Carousel,Promo,2026-08-27 20:00:00,Thursday,20,6743,403.29,86
+Client_06,Fashion,YouTube,Reel,Customer Success,2024-03-10 22:00:00,Sunday,22,8114,319.48,98
+Client_05,Real Estate,YouTube,Case Study,Behind the Scenes,2026-03-28 18:00:00,Saturday,18,10933,140.49,95
+Client_08,Fashion,Facebook,Blog Post,Customer Success,2026-05-25 20:00:00,Monday,20,10207,315.6,91
+Client_02,Health,LinkedIn,Carousel,Behind the Scenes,2024-02-14 03:00:00,Wednesday,3,6723,233.43,83
+Client_04,Real Estate,Facebook,Carousel,Customer Success,2026-08-18 12:00:00,Tuesday,12,10084,261.29,91
+Client_08,Real Estate,LinkedIn,Infographic,Promo,2025-11-05 22:00:00,Wednesday,22,2130,62.74,75
+Client_12,E-commerce,Instagram,Blog Post,Promo,2025-02-17 02:00:00,Monday,2,13408,144.51,84
+Client_06,Fashion,LinkedIn,Blog Post,Promo,2026-03-25 05:00:00,Wednesday,5,11539,176.47,73
+Client_01,E-commerce,LinkedIn,Carousel,Trends,2026-07-18 03:00:00,Saturday,3,12347,,81
+Client_15,FinTech,YouTube,Reel,Education,2025-03-26 17:00:00,Wednesday,17,10671,55.17,95
+Client_04,SaaS,Instagram,Infographic,Promo,2025-03-31 01:00:00,Monday,1,14221,233.95,86
+Client_01,Real Estate,Instagram,Blog Post,Behind the Scenes,2025-02-11 21:00:00,Tuesday,21,13094,465.81,93
+Client_13,FinTech,Instagram,Carousel,Promo,2025-11-10 16:00:00,Monday,16,13563,100.35,83
+Client_02,FinTech,Instagram,Blog Post,Trends,2025-04-13 20:00:00,Sunday,20,8183,282.39,90
+Client_05,Health,YouTube,Infographic,Behind the Scenes,2024-04-22 05:00:00,Monday,5,1777,403.94,82
+Client_14,SaaS,Instagram,Infographic,Trends,2025-08-03 11:00:00,Sunday,11,1732,474.14,92
+Client_08,FinTech,YouTube,Case Study,Behind the Scenes,2024-05-31 03:00:00,Friday,3,11244,386.05,91
+Client_08,FinTech,LinkedIn,Carousel,Customer Success,2026-12-16 19:00:00,Wednesday,19,7190,374.25,96
+Client_11,SaaS,LinkedIn,Infographic,Education,2025-11-04 05:00:00,Tuesday,5,14901,421.92,87
+Client_03,SaaS,Facebook,Case Study,Education,2025-02-27 21:00:00,Thursday,21,9159,250.79,96
+Client_11,FinTech,LinkedIn,Case Study,,2026-06-28 18:00:00,Sunday,18,12962,412.63,98
+Client_13,SaaS,YouTube,Blog Post,Education,2026-01-21 23:00:00,Wednesday,23,12101,53.58,79
+Client_04,FinTech,LinkedIn,Blog Post,,2026-12-23 17:00:00,Wednesday,17,13204,466.05,82
+Client_10,FinTech,LinkedIn,Case Study,Trends,2025-03-02 06:00:00,Sunday,6,1525,249.49,85
+Client_11,Health,X,Blog Post,Trends,2025-10-16 11:00:00,Thursday,11,8968,299.02,82
+Client_14,Fashion,Instagram,Infographic,Education,2026-07-04 16:00:00,Saturday,16,7910,164.7,90
+Client_06,FinTech,Instagram,Reel,Trends,2025-04-23 22:00:00,Wednesday,22,10152,384.14,98
+Client_11,E-commerce,YouTube,Infographic,Education,2026-09-17 16:00:00,Thursday,16,5264,84.49,84
+Client_11,Real Estate,Instagram,Case Study,,2024-02-24 10:00:00,Saturday,10,8099,,98
+Client_10,Fashion,Facebook,Case Study,Promo,2024-10-09 08:00:00,Wednesday,8,13123,422.65,87
+Client_03,Fashion,LinkedIn,Infographic,Trends,2026-07-16 00:00:00,Thursday,0,14879,147.23,84
+Client_02,Fashion,X,Blog Post,Behind the Scenes,2025-01-29 18:00:00,Wednesday,18,6602,414.2,79
+Client_06,Health,YouTube,Blog Post,Trends,2024-11-09 14:00:00,Saturday,14,8506,403.86,85
+Client_11,FinTech,YouTube,Case Study,Customer Success,2026-11-19 13:00:00,Thursday,13,4983,334.5,97
+Client_13,Health,X,Carousel,Trends,2026-07-03 23:00:00,Friday,23,3494,218.08,79
+Client_15,FinTech,LinkedIn,Blog Post,Behind the Scenes,2024-08-18 10:00:00,Sunday,10,10182,172.17,87
+Client_05,Health,X,Infographic,Behind the Scenes,2026-05-16 13:00:00,Saturday,13,2572,154.3,73
+Client_14,Health,Instagram,Blog Post,Education,2024-06-05 04:00:00,Wednesday,4,8207,193.37,86
+Client_10,Real Estate,LinkedIn,Infographic,Promo,2025-07-18 09:00:00,Friday,9,12865,456.6,81
+Client_05,E-commerce,Instagram,Case Study,,2024-01-28 15:00:00,Sunday,15,1715,84.94,92
+Client_10,Health,LinkedIn,Blog Post,Education,2024-03-24 06:00:00,Sunday,6,9105,422.99,79
+Client_13,Real Estate,Instagram,Infographic,Promo,2024-11-29 02:00:00,Friday,2,11415,207.0,78
+Client_05,SaaS,Facebook,Case Study,Trends,2026-01-14 23:00:00,Wednesday,23,11284,284.72,90
+Client_10,E-commerce,Facebook,Carousel,Customer Success,2024-05-17 16:00:00,Friday,16,4106,407.52,83
+Client_12,Health,X,Infographic,,2026-04-19 11:00:00,Sunday,11,9850,447.97,81
+Client_05,Fashion,Instagram,Carousel,Behind the Scenes,2026-06-19 16:00:00,Friday,16,6281,205.15,92
+Client_03,SaaS,YouTube,Carousel,Behind the Scenes,2026-01-29 21:00:00,Thursday,21,4813,257.83,92
+Client_07,SaaS,LinkedIn,Reel,Customer Success,2025-07-29 08:00:00,Tuesday,8,12533,236.53,98
+Client_06,Real Estate,Instagram,Blog Post,Education,2024-10-01 09:00:00,Tuesday,9,11468,55.96,85
+Client_04,SaaS,LinkedIn,Infographic,Promo,2026-01-06 11:00:00,Tuesday,11,11744,183.17,78
+Client_02,E-commerce,LinkedIn,Carousel,Trends,2026-04-11 21:00:00,Saturday,21,9263,256.64,95
+Client_12,Health,YouTube,Reel,Behind the Scenes,2025-04-30 09:00:00,Wednesday,9,7439,234.99,96
+Client_09,Health,LinkedIn,Case Study,Education,2026-09-24 10:00:00,Thursday,10,3795,374.87,95
+Client_01,Fashion,LinkedIn,Infographic,Customer Success,2026-09-13 00:00:00,Sunday,0,7185,223.16,86
+Client_13,Real Estate,Instagram,Carousel,,2024-03-09 04:00:00,Saturday,4,3196,270.22,86
+Client_13,Fashion,Instagram,Blog Post,Customer Success,2026-04-16 16:00:00,Thursday,16,12685,243.32,92
+Client_11,SaaS,Instagram,Reel,,2025-12-12 18:00:00,Friday,18,12161,383.28,98
+Client_15,Fashion,X,Carousel,Promo,2024-07-16 09:00:00,Tuesday,9,3446,438.34,74
+Client_14,E-commerce,Instagram,Blog Post,Behind the Scenes,2025-08-29 11:00:00,Friday,11,13501,289.35,89
+Client_04,Health,Instagram,Carousel,Behind the Scenes,2025-08-01 05:00:00,Friday,5,4283,405.24,88
+Client_01,SaaS,Instagram,Infographic,Trends,2024-02-05 14:00:00,Monday,14,5144,183.55,92
+Client_13,Fashion,Facebook,Infographic,Education,2026-10-19 20:00:00,Monday,20,6741,,84
+Client_06,Real Estate,X,Infographic,Promo,2024-08-31 23:00:00,Saturday,23,7920,205.35,73
+Client_04,E-commerce,YouTube,Reel,Behind the Scenes,2024-11-04 00:00:00,Monday,0,12192,236.39,93
+Client_05,E-commerce,YouTube,Infographic,Promo,2026-08-12 16:00:00,Wednesday,16,9057,379.59,78
+Client_05,Fashion,LinkedIn,Blog Post,Behind the Scenes,2025-08-04 05:00:00,Monday,5,13337,446.75,78
+Client_09,Health,Instagram,Carousel,Promo,2026-06-20 09:00:00,Saturday,9,4145,104.67,83
+Client_01,Fashion,X,Case Study,Customer Success,2026-06-17 04:00:00,Wednesday,4,8089,335.59,89
+Client_13,SaaS,YouTube,Blog Post,Behind the Scenes,2026-01-23 19:00:00,Friday,19,7853,,84
+Client_02,Fashion,YouTube,Blog Post,Promo,2024-08-29 07:00:00,Thursday,7,12041,103.29,74
+Client_13,E-commerce,YouTube,Infographic,Education,2026-07-02 07:00:00,Thursday,7,3432,145.35,86
+Client_06,Fashion,YouTube,Reel,Customer Success,2024-07-24 11:00:00,Wednesday,11,12986,189.95,98
+Client_05,Health,YouTube,Carousel,Customer Success,2026-04-08 22:00:00,Wednesday,22,3257,125.12,85
+Client_11,Real Estate,X,Reel,Education,2024-01-09 10:00:00,Tuesday,10,6585,159.68,88
+Client_07,FinTech,X,Carousel,Promo,2025-04-21 23:00:00,Monday,23,7137,170.42,72
+Client_03,Fashion,YouTube,Carousel,Trends,2026-05-08 10:00:00,Friday,10,2616,,85
+Client_03,Health,YouTube,Reel,,2025-06-12 16:00:00,Thursday,16,12259,387.23,97
+Client_10,Health,Instagram,Blog Post,Promo,2026-11-21 22:00:00,Saturday,22,13191,,80
+Client_02,Real Estate,YouTube,Carousel,Education,2024-07-01 21:00:00,Monday,21,1992,493.81,94
+Client_13,E-commerce,Instagram,Reel,Education,2024-04-06 23:00:00,Saturday,23,12998,236.63,98
+Client_03,Health,LinkedIn,Carousel,,2024-11-29 12:00:00,Friday,12,10311,389.24,81
+Client_10,Health,X,Case Study,,2026-03-15 19:00:00,Sunday,19,12924,442.16,89
+Client_01,Health,LinkedIn,Blog Post,Trends,2024-11-20 01:00:00,Wednesday,1,9388,355.54,83
+Client_05,Health,LinkedIn,Infographic,Behind the Scenes,2024-01-09 05:00:00,Tuesday,5,13515,235.34,80
+Client_14,SaaS,Instagram,Carousel,Education,2026-09-06 13:00:00,Sunday,13,7974,389.12,96
+Client_15,SaaS,Instagram,Case Study,Education,2024-03-21 10:00:00,Thursday,10,12072,,98
+Client_12,E-commerce,YouTube,Infographic,Education,2025-05-05 14:00:00,Monday,14,11238,197.4,92
+Client_05,Fashion,Instagram,Infographic,Promo,2025-09-20 15:00:00,Saturday,15,6458,296.01,78
+Client_12,Health,Instagram,Carousel,Promo,2026-08-02 15:00:00,Sunday,15,13255,308.93,85
+Client_11,Real Estate,LinkedIn,Reel,Behind the Scenes,2026-11-15 08:00:00,Sunday,8,11297,59.96,86
+Client_07,Fashion,YouTube,Carousel,Trends,2025-01-24 03:00:00,Friday,3,13444,475.3,90
+Client_04,Real Estate,YouTube,Case Study,Behind the Scenes,2026-05-11 02:00:00,Monday,2,14367,363.48,90
+Client_03,Fashion,Instagram,Infographic,Customer Success,2025-04-27 21:00:00,Sunday,21,11582,273.07,98
+Client_01,E-commerce,LinkedIn,Carousel,Education,2026-02-26 07:00:00,Thursday,7,10967,469.91,89
+Client_12,Health,LinkedIn,Reel,Education,2025-10-16 12:00:00,Thursday,12,4243,247.59,98
+Client_15,Health,YouTube,Carousel,Education,2025-12-11 03:00:00,Thursday,3,9366,491.2,92
+Client_08,FinTech,YouTube,Blog Post,,2024-04-27 03:00:00,Saturday,3,12185,280.53,83
+Client_13,Real Estate,LinkedIn,Reel,Behind the Scenes,2026-09-05 10:00:00,Saturday,10,8660,101.43,92
+Client_03,Fashion,LinkedIn,Case Study,Education,2025-08-16 11:00:00,Saturday,11,6951,394.16,98
+Client_13,Fashion,LinkedIn,Infographic,,2024-09-29 18:00:00,Sunday,18,6758,355.5,87
+Client_15,SaaS,Facebook,Carousel,Promo,2026-12-17 01:00:00,Thursday,1,10048,397.84,76
+Client_02,FinTech,LinkedIn,Reel,Promo,2024-03-23 18:00:00,Saturday,18,8686,478.15,98
+Client_11,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-12-13 10:00:00,Friday,10,7602,399.42,83
+Client_04,SaaS,LinkedIn,Reel,,2025-04-20 11:00:00,Sunday,11,10561,325.1,98
+Client_03,SaaS,LinkedIn,Blog Post,Behind the Scenes,2024-05-01 07:00:00,Wednesday,7,10577,435.79,78
+Client_13,Real Estate,Facebook,Case Study,,2024-03-13 06:00:00,Wednesday,6,11693,352.96,89
+Client_01,Real Estate,LinkedIn,Infographic,Behind the Scenes,2026-01-29 11:00:00,Thursday,11,10975,233.65,81
+Client_03,E-commerce,YouTube,Case Study,Customer Success,2024-12-27 16:00:00,Friday,16,2119,448.53,98
+Client_12,E-commerce,YouTube,Carousel,Promo,2026-03-17 16:00:00,Tuesday,16,2382,149.86,78
+Client_02,SaaS,LinkedIn,Reel,Trends,2026-02-03 07:00:00,Tuesday,7,10488,371.59,89
+Client_08,FinTech,LinkedIn,Blog Post,Trends,2024-08-27 23:00:00,Tuesday,23,5142,446.7,76
+Client_06,Fashion,Facebook,Blog Post,Customer Success,2026-08-19 14:00:00,Wednesday,14,13117,379.09,79
+Client_09,Real Estate,LinkedIn,Reel,Behind the Scenes,2024-04-09 09:00:00,Tuesday,9,2796,363.77,90
+Client_08,FinTech,LinkedIn,Reel,Customer Success,2025-04-07 23:00:00,Monday,23,14406,388.69,98
+Client_10,Health,X,Carousel,,2024-07-16 08:00:00,Tuesday,8,9936,259.27,76
+Client_03,Real Estate,Instagram,Case Study,Education,2024-03-16 02:00:00,Saturday,2,4395,,96
+Client_05,Real Estate,Instagram,Blog Post,Promo,2024-12-05 19:00:00,Thursday,19,8093,141.55,84
+Client_07,E-commerce,LinkedIn,Carousel,Trends,2024-12-04 08:00:00,Wednesday,8,2429,107.32,86
+Client_05,Fashion,X,Case Study,Behind the Scenes,2024-10-02 16:00:00,Wednesday,16,6866,178.48,80
+Client_08,Fashion,Instagram,Carousel,Trends,2025-08-17 01:00:00,Sunday,1,10211,289.21,93
+Client_12,Health,Instagram,Blog Post,Trends,2025-08-26 14:00:00,Tuesday,14,4712,279.75,87
+Client_05,Health,Instagram,Reel,Promo,2026-07-02 06:00:00,Thursday,6,3909,419.27,98
+Client_01,Real Estate,Instagram,Reel,Trends,2026-05-01 21:00:00,Friday,21,9699,232.06,98
+Client_05,SaaS,Instagram,Case Study,Trends,2025-11-24 14:00:00,Monday,14,12217,267.95,93
+Client_04,E-commerce,LinkedIn,Infographic,Customer Success,2025-08-09 11:00:00,Saturday,11,4923,56.02,87
+Client_06,E-commerce,LinkedIn,Case Study,Promo,2026-08-02 15:00:00,Sunday,15,11711,234.38,86
+Client_03,Real Estate,Instagram,Infographic,Education,2026-11-15 23:00:00,Sunday,23,14282,341.5,90
+Client_15,FinTech,LinkedIn,Carousel,Behind the Scenes,2025-01-18 16:00:00,Saturday,16,8476,56.98,80
+Client_11,SaaS,Instagram,Carousel,Trends,2025-11-13 03:00:00,Thursday,3,9094,176.4,90
+Client_05,Real Estate,Instagram,Blog Post,Behind the Scenes,2025-05-08 03:00:00,Thursday,3,6658,143.58,79
+Client_02,SaaS,LinkedIn,Infographic,Education,2025-07-02 16:00:00,Wednesday,16,13974,68.89,81
+Client_11,SaaS,YouTube,Blog Post,Behind the Scenes,2024-03-26 09:00:00,Tuesday,9,5167,265.67,79
+Client_06,SaaS,Instagram,Reel,Education,2024-08-13 23:00:00,Tuesday,23,13363,131.78,98
+Client_13,Real Estate,LinkedIn,Infographic,,2025-08-30 21:00:00,Saturday,21,12493,384.39,97
+Client_15,E-commerce,Instagram,Case Study,Trends,2026-05-22 04:00:00,Friday,4,7473,431.57,96
+Client_12,E-commerce,Facebook,Reel,Education,2026-03-23 04:00:00,Monday,4,7736,295.51,91
+Client_06,SaaS,YouTube,Reel,Behind the Scenes,2024-10-25 06:00:00,Friday,6,9777,491.77,94
+Client_05,FinTech,LinkedIn,Case Study,Trends,2025-03-03 00:00:00,Monday,0,12807,252.72,87
+Client_06,Fashion,Instagram,Reel,Customer Success,2024-11-04 08:00:00,Monday,8,13924,281.02,98
+Client_11,Real Estate,X,Infographic,Trends,2026-03-25 18:00:00,Wednesday,18,3968,495.15,85
+Client_07,Fashion,Instagram,Blog Post,Education,2025-02-15 10:00:00,Saturday,10,7717,154.2,90
+Client_12,FinTech,Instagram,Reel,Customer Success,2025-09-23 07:00:00,Tuesday,7,5119,474.15,98
+Client_05,Real Estate,LinkedIn,Infographic,Behind the Scenes,2026-02-15 15:00:00,Sunday,15,3136,69.28,75
+Client_01,SaaS,Instagram,Carousel,,2024-02-18 02:00:00,Sunday,2,9655,250.87,98
+Client_08,E-commerce,X,Infographic,Customer Success,2024-07-06 11:00:00,Saturday,11,5083,81.5,85
+Client_04,Fashion,YouTube,Blog Post,Promo,2024-09-19 07:00:00,Thursday,7,5509,378.16,77
+Client_09,Health,Instagram,Infographic,Customer Success,2026-07-29 21:00:00,Wednesday,21,4826,323.78,96
+Client_14,Health,LinkedIn,Case Study,Customer Success,2026-12-30 16:00:00,Wednesday,16,11910,367.99,90
+Client_10,FinTech,X,Blog Post,Trends,2025-05-22 15:00:00,Thursday,15,9648,218.52,74
+Client_12,SaaS,Facebook,Carousel,Behind the Scenes,2025-06-20 10:00:00,Friday,10,3717,216.27,80
+Client_06,Fashion,YouTube,Case Study,Trends,2026-01-21 08:00:00,Wednesday,8,6467,70.39,85
+Client_01,SaaS,X,Infographic,Trends,2024-08-18 19:00:00,Sunday,19,3869,207.48,83
+Client_03,Fashion,X,Blog Post,Education,2025-02-05 13:00:00,Wednesday,13,5138,468.18,80
+Client_03,FinTech,YouTube,Carousel,Trends,2026-05-07 15:00:00,Thursday,15,12195,220.65,88
+Client_10,FinTech,Instagram,Case Study,Promo,2026-10-31 13:00:00,Saturday,13,10635,,92
+Client_12,Health,LinkedIn,Carousel,Promo,2025-10-11 10:00:00,Saturday,10,7222,429.05,81
+Client_12,SaaS,Facebook,Infographic,Education,2024-04-16 13:00:00,Tuesday,13,12529,217.96,83
+Client_04,Real Estate,Instagram,Carousel,Behind the Scenes,2024-08-21 00:00:00,Wednesday,0,9999999,334.39,92
+Client_06,Health,Facebook,Reel,Behind the Scenes,2025-11-17 18:00:00,Monday,18,12628,92.92,93
+Client_15,SaaS,Instagram,Case Study,Trends,2024-04-01 16:00:00,Monday,16,5944,96.66,93
+Client_07,Health,Instagram,Carousel,Trends,2025-08-13 12:00:00,Wednesday,12,9118,71.9,94
+Client_10,Real Estate,LinkedIn,Infographic,Trends,2024-05-03 09:00:00,Friday,9,5447,311.46,82
+Client_04,E-commerce,Instagram,Infographic,,2025-08-14 23:00:00,Thursday,23,3176,241.73,90
+Client_06,E-commerce,X,Carousel,Customer Success,2026-06-08 21:00:00,Monday,21,2696,296.61,92
+Client_11,E-commerce,Facebook,Infographic,Promo,2026-05-17 09:00:00,Sunday,9,13797,284.48,81
+Client_01,E-commerce,Facebook,Blog Post,Customer Success,2025-05-13 17:00:00,Tuesday,17,4287,207.59,78
+Client_14,Fashion,YouTube,Blog Post,Customer Success,2024-04-29 13:00:00,Monday,13,8932,354.86,89
+Client_08,E-commerce,Instagram,Blog Post,Behind the Scenes,2025-12-23 12:00:00,Tuesday,12,11153,391.33,90
+Client_07,Real Estate,LinkedIn,Reel,Customer Success,2025-08-06 00:00:00,Wednesday,0,9427,56.58,96
+Client_15,FinTech,LinkedIn,Carousel,Education,2026-10-27 16:00:00,Tuesday,16,4818,143.26,90
+Client_11,FinTech,LinkedIn,Reel,Trends,2024-08-25 11:00:00,Sunday,11,10358,370.96,98
+Client_11,Fashion,Instagram,Infographic,Education,2026-08-30 00:00:00,Sunday,0,8189,223.98,87
+Client_09,E-commerce,LinkedIn,Reel,Promo,2026-05-19 21:00:00,Tuesday,21,3676,348.12,92
+Client_03,E-commerce,LinkedIn,Infographic,Trends,2026-12-14 04:00:00,Monday,4,5243,206.13,82
+Client_02,E-commerce,X,Infographic,Customer Success,2026-06-06 07:00:00,Saturday,7,10292,225.84,82
+Client_01,Health,Facebook,Case Study,Promo,2024-06-15 03:00:00,Saturday,3,12344,121.41,81
+Client_03,SaaS,LinkedIn,Blog Post,Trends,2026-12-23 15:00:00,Wednesday,15,5922,,82
+Client_05,Health,YouTube,Infographic,,2026-07-22 07:00:00,Wednesday,7,5324,322.44,92
+Client_14,SaaS,YouTube,Case Study,Education,2025-07-14 06:00:00,Monday,6,13598,244.92,92
+Client_11,E-commerce,Instagram,Blog Post,Trends,2024-02-20 18:00:00,Tuesday,18,10671,398.44,90
+Client_02,E-commerce,Facebook,Infographic,Customer Success,2026-05-20 00:00:00,Wednesday,0,3951,433.66,80
+Client_12,Health,Facebook,Infographic,Education,2024-07-16 07:00:00,Tuesday,7,2128,293.74,78
+Client_03,Health,LinkedIn,Reel,Promo,2025-04-15 16:00:00,Tuesday,16,11321,391.22,90
+Client_15,SaaS,LinkedIn,Reel,,2024-07-08 19:00:00,Monday,19,9278,,98
+Client_15,FinTech,Instagram,Blog Post,Promo,2025-01-16 02:00:00,Thursday,2,5196,,77
+Client_15,SaaS,LinkedIn,Infographic,Promo,2024-12-01 10:00:00,Sunday,10,13122,370.75,84
+Client_04,Health,Instagram,Carousel,Behind the Scenes,2025-06-15 13:00:00,Sunday,13,5174,223.8,92
+Client_07,Real Estate,Facebook,Reel,Trends,2026-04-06 06:00:00,Monday,6,5429,314.83,92
+Client_13,Health,Instagram,Blog Post,Trends,2025-12-27 05:00:00,Saturday,5,4265,133.42,80
+Client_03,Real Estate,Instagram,Infographic,Behind the Scenes,2024-10-14 05:00:00,Monday,5,5869,319.9,87
+Client_15,Fashion,X,Infographic,Customer Success,2026-01-23 05:00:00,Friday,5,14472,437.68,90
+Client_09,Health,YouTube,Carousel,Customer Success,2025-08-21 21:00:00,Thursday,21,9807,440.89,98
+Client_08,Fashion,Instagram,Blog Post,Promo,2025-08-29 21:00:00,Friday,21,6456,375.95,79
+Client_04,FinTech,Instagram,Infographic,Education,2024-05-23 04:00:00,Thursday,4,11695,385.59,95
+Client_13,SaaS,Instagram,Reel,Customer Success,2024-12-30 18:00:00,Monday,18,2192,301.07,98
+Client_01,Real Estate,YouTube,Carousel,Education,2025-03-20 21:00:00,Thursday,21,4662,313.1,98
+Client_01,SaaS,Instagram,Blog Post,Trends,2024-09-02 15:00:00,Monday,15,2605,110.14,82
+Client_01,Fashion,LinkedIn,Carousel,Education,2026-04-02 10:00:00,Thursday,10,4508,249.74,85
+Client_01,Real Estate,X,Reel,Trends,2025-11-23 01:00:00,Sunday,1,3661,252.85,82
+Client_08,SaaS,Instagram,Blog Post,Behind the Scenes,2025-10-13 12:00:00,Monday,12,9845,481.32,93
+Client_03,Health,Facebook,Carousel,Behind the Scenes,2026-06-05 13:00:00,Friday,13,5199,243.99,86
+Client_15,E-commerce,X,Case Study,Promo,2024-10-19 14:00:00,Saturday,14,14102,297.2,87
+Client_06,Fashion,Instagram,Reel,Customer Success,2025-01-16 07:00:00,Thursday,7,5286,289.96,98
+Client_03,SaaS,Facebook,Reel,Promo,2024-08-21 08:00:00,Wednesday,8,10756,336.54,87
+Client_11,Fashion,LinkedIn,Reel,Trends,2024-11-29 04:00:00,Friday,4,5700,386.7,94
+Client_05,Fashion,X,Case Study,Promo,2025-01-10 07:00:00,Friday,7,3413,151.27,75
+Client_13,Real Estate,LinkedIn,Case Study,Education,2025-06-23 10:00:00,Monday,10,10908,287.93,94
+Client_15,Real Estate,YouTube,Infographic,,2026-09-29 19:00:00,Tuesday,19,7020,421.66,94
+Client_14,E-commerce,LinkedIn,Carousel,Behind the Scenes,2024-07-12 10:00:00,Friday,10,12093,,85
+Client_13,Health,Facebook,Infographic,Customer Success,2025-04-16 08:00:00,Wednesday,8,3272,175.31,77
+Client_15,Fashion,YouTube,Carousel,Trends,2024-11-15 23:00:00,Friday,23,11652,344.62,88
+Client_07,SaaS,LinkedIn,Case Study,Trends,2024-12-08 00:00:00,Sunday,0,4280,420.7,86
+Client_02,FinTech,Facebook,Case Study,Education,2026-09-15 11:00:00,Tuesday,11,14496,78.41,81
+Client_06,Fashion,Instagram,Infographic,Customer Success,2026-12-11 19:00:00,Friday,19,8923,399.56,98
+Client_13,Fashion,Instagram,Blog Post,Behind the Scenes,2026-02-13 13:00:00,Friday,13,14438,419.74,85
+Client_06,E-commerce,Instagram,Infographic,Trends,2025-03-22 12:00:00,Saturday,12,4371,257.69,93
+Client_11,Health,Instagram,Carousel,,2025-12-28 05:00:00,Sunday,5,14734,492.49,94
+Client_03,FinTech,Instagram,Infographic,Education,2024-05-23 12:00:00,Thursday,12,2160,404.02,93
+Client_06,Real Estate,X,Reel,Promo,2025-03-24 05:00:00,Monday,5,7742,398.15,93
+Client_10,Real Estate,Instagram,Carousel,Behind the Scenes,2025-08-24 10:00:00,Sunday,10,12327,386.53,93
+Client_10,SaaS,YouTube,Carousel,,2024-02-14 04:00:00,Wednesday,4,12021,117.77,89
+Client_14,FinTech,Instagram,Blog Post,Trends,2026-02-18 15:00:00,Wednesday,15,13646,147.75,87
+Client_05,Real Estate,Facebook,Case Study,Trends,2024-05-22 12:00:00,Wednesday,12,12142,258.8,90
+Client_12,SaaS,X,Carousel,Behind the Scenes,2024-01-13 13:00:00,Saturday,13,2632,168.8,83
+Client_02,Health,LinkedIn,Case Study,Promo,2025-06-03 12:00:00,Tuesday,12,2199,236.86,82
+Client_09,SaaS,Facebook,Infographic,Trends,2025-12-08 22:00:00,Monday,22,8970,449.81,77
+Client_08,Real Estate,Instagram,Reel,Behind the Scenes,2026-03-25 18:00:00,Wednesday,18,11730,420.95,98
+Client_03,E-commerce,Facebook,Blog Post,Education,2024-01-30 03:00:00,Tuesday,3,7797,333.52,76
+Client_08,E-commerce,Instagram,Case Study,Promo,2026-06-13 16:00:00,Saturday,16,14339,436.15,92
+Client_14,E-commerce,X,Carousel,Customer Success,2026-12-07 11:00:00,Monday,11,9312,402.7,90
+Client_09,Real Estate,Instagram,Case Study,Trends,2024-01-08 22:00:00,Monday,22,14192,243.04,93
+Client_14,E-commerce,LinkedIn,Carousel,Behind the Scenes,2025-03-13 04:00:00,Thursday,4,6057,140.48,83
+Client_15,FinTech,YouTube,Case Study,Education,2025-12-24 12:00:00,Wednesday,12,3679,281.39,92
+Client_03,Health,Instagram,Carousel,Customer Success,2024-05-03 23:00:00,Friday,23,12530,,92
+Client_03,SaaS,Instagram,Infographic,Behind the Scenes,2024-09-11 06:00:00,Wednesday,6,10565,246.39,85
+Client_02,SaaS,Instagram,Carousel,Behind the Scenes,2026-01-02 00:00:00,Friday,0,9775,350.05,89
+Client_08,Real Estate,Instagram,Carousel,Customer Success,2026-04-01 07:00:00,Wednesday,7,2922,92.45,90
+Client_10,E-commerce,LinkedIn,Reel,Education,2026-04-04 02:00:00,Saturday,2,12367,386.6,98
+Client_01,E-commerce,Instagram,Carousel,Education,2026-10-26 07:00:00,Monday,7,4680,415.72,93
+Client_08,Fashion,LinkedIn,Reel,Promo,2024-03-16 16:00:00,Saturday,16,5816,368.08,94
+Client_07,Health,Instagram,Blog Post,,2026-07-15 14:00:00,Wednesday,14,13667,,86
+Client_14,FinTech,Facebook,Reel,,2026-08-20 05:00:00,Thursday,5,8196,,98
+Client_07,SaaS,Instagram,Infographic,Customer Success,2024-01-24 17:00:00,Wednesday,17,11083,456.39,96
+Client_03,Fashion,Instagram,Reel,Customer Success,2024-08-14 18:00:00,Wednesday,18,12910,470.11,98
+Client_01,Fashion,Instagram,Blog Post,Education,2024-03-19 23:00:00,Tuesday,23,13899,410.61,88
+Client_04,Real Estate,LinkedIn,Infographic,Trends,2026-03-07 13:00:00,Saturday,13,2114,353.42,84
+Client_09,SaaS,Facebook,Case Study,Promo,2024-06-09 23:00:00,Sunday,23,12663,52.57,83
+Client_05,Real Estate,LinkedIn,Case Study,,2025-06-22 01:00:00,Sunday,1,13257,259.62,89
+Client_01,FinTech,Instagram,Reel,Behind the Scenes,2024-11-06 15:00:00,Wednesday,15,13268,307.02,98
+Client_15,Fashion,YouTube,Reel,Customer Success,2024-06-16 06:00:00,Sunday,6,6070,186.81,98
+Client_05,Fashion,YouTube,Blog Post,Trends,2025-04-07 05:00:00,Monday,5,1770,193.15,73
+Client_13,Health,Instagram,Blog Post,Education,2026-01-22 22:00:00,Thursday,22,13758,482.52,90
+Client_08,FinTech,YouTube,Carousel,Trends,2024-05-05 09:00:00,Sunday,9,3968,451.27,88
+Client_08,Fashion,X,Blog Post,Trends,2026-10-04 22:00:00,Sunday,22,11082,432.13,76
+Client_05,FinTech,Instagram,Carousel,Education,2025-11-20 02:00:00,Thursday,2,13046,232.71,92
+Client_12,SaaS,YouTube,Infographic,Customer Success,2025-03-23 01:00:00,Sunday,1,13827,56.16,83
+Client_09,E-commerce,YouTube,Reel,Trends,2024-02-28 17:00:00,Wednesday,17,14781,,98
+Client_15,Fashion,LinkedIn,Infographic,Behind the Scenes,2025-05-25 09:00:00,Sunday,9,5107,190.49,81
+Client_01,Health,Instagram,Blog Post,Education,2024-02-02 16:00:00,Friday,16,12275,57.08,89
+Client_04,SaaS,Instagram,Infographic,Promo,2024-12-03 08:00:00,Tuesday,8,13765,57.72,77
+Client_03,FinTech,Facebook,Infographic,Customer Success,2024-11-11 00:00:00,Monday,0,4575,462.47,85
+Client_02,Real Estate,X,Infographic,Education,2025-06-06 05:00:00,Friday,5,13598,367.77,80
+Client_15,SaaS,YouTube,Blog Post,Promo,2024-11-01 23:00:00,Friday,23,1789,189.03,75
+Client_08,Fashion,LinkedIn,Infographic,Promo,2024-10-27 06:00:00,Sunday,6,9620,109.69,76
+Client_07,FinTech,YouTube,Carousel,Trends,2026-07-04 20:00:00,Saturday,20,12172,280.24,97
+Client_09,E-commerce,LinkedIn,Blog Post,Trends,2024-08-29 17:00:00,Thursday,17,8114,52.41,77
+Client_02,SaaS,LinkedIn,Infographic,Trends,2026-03-10 14:00:00,Tuesday,14,4752,472.29,80
+Client_14,Fashion,Instagram,Blog Post,Education,2025-12-06 01:00:00,Saturday,1,8915,236.67,87
+Client_14,Health,Facebook,Case Study,Education,2024-09-06 10:00:00,Friday,10,8271,,91
+Client_04,Real Estate,LinkedIn,Carousel,Customer Success,2026-01-29 09:00:00,Thursday,9,1778,,86
+Client_14,FinTech,Facebook,Infographic,Trends,2025-03-19 15:00:00,Wednesday,15,12616,81.2,69
+Client_15,SaaS,Instagram,Case Study,Promo,2024-12-29 04:00:00,Sunday,4,2080,337.25,89
+Client_06,SaaS,Instagram,Case Study,Behind the Scenes,2026-08-31 03:00:00,Monday,3,6458,379.85,91
+Client_11,E-commerce,Instagram,Blog Post,Customer Success,2026-07-06 01:00:00,Monday,1,9945,354.26,86
+Client_03,E-commerce,LinkedIn,Case Study,Education,2026-03-16 14:00:00,Monday,14,5776,112.3,92
+Client_08,Health,X,Carousel,Customer Success,2026-10-12 16:00:00,Monday,16,9497,310.48,86
+Client_03,Real Estate,Instagram,Carousel,Customer Success,2025-05-28 11:00:00,Wednesday,11,6276,306.27,97
+Client_14,Health,Facebook,Reel,Customer Success,2024-07-18 04:00:00,Thursday,4,2324,440.78,91
+Client_12,Fashion,LinkedIn,Carousel,Customer Success,2024-04-08 16:00:00,Monday,16,5332,220.61,89
+Client_13,Fashion,Facebook,Case Study,Behind the Scenes,2025-05-16 15:00:00,Friday,15,10391,217.17,84
+Client_13,Health,Instagram,Carousel,Trends,2024-10-04 07:00:00,Friday,7,6945,328.34,93
+Client_02,Real Estate,Facebook,Blog Post,Promo,2024-12-06 13:00:00,Friday,13,2880,334.88,73
+Client_13,Health,YouTube,Reel,Customer Success,2024-07-06 07:00:00,Saturday,7,13588,261.18,98
+Client_13,Real Estate,Instagram,Case Study,Customer Success,2025-03-29 21:00:00,Saturday,21,11365,249.38,98
+Client_03,Real Estate,Instagram,Reel,Customer Success,2026-11-30 11:00:00,Monday,11,12419,272.37,98
+Client_11,FinTech,Facebook,Case Study,Trends,2026-07-21 18:00:00,Tuesday,18,9999999,437.47,91
+Client_06,Real Estate,X,Blog Post,Education,2026-08-16 06:00:00,Sunday,6,4656,257.53,76
+Client_02,E-commerce,Instagram,Reel,Education,2026-12-08 14:00:00,Tuesday,14,13080,472.97,98
+Client_08,Real Estate,YouTube,Infographic,,2025-07-12 11:00:00,Saturday,11,5807,276.8,87
+Client_01,Real Estate,X,Case Study,Education,2025-06-30 17:00:00,Monday,17,7134,477.14,86
+Client_07,Real Estate,Facebook,Infographic,Customer Success,2026-07-18 07:00:00,Saturday,7,10075,424.77,88
+Client_02,Fashion,X,Reel,Customer Success,2025-04-01 22:00:00,Tuesday,22,7310,,93
+Client_10,E-commerce,YouTube,Infographic,Customer Success,2024-02-05 13:00:00,Monday,13,10033,438.64,88
+Client_12,E-commerce,LinkedIn,Infographic,Behind the Scenes,2026-05-05 10:00:00,Tuesday,10,7434,99.53,83
+Client_06,Health,Instagram,Reel,Customer Success,2026-04-19 17:00:00,Sunday,17,11679,466.27,98
+Client_12,FinTech,Instagram,Blog Post,Education,2025-12-07 14:00:00,Sunday,14,13751,334.24,89
+Client_02,Real Estate,YouTube,Infographic,,2025-12-31 12:00:00,Wednesday,12,14631,,91
+Client_02,SaaS,YouTube,Infographic,Trends,2026-08-02 21:00:00,Sunday,21,4609,339.92,89
+Client_10,FinTech,Instagram,Blog Post,,2026-08-09 17:00:00,Sunday,17,5582,488.41,84
+Client_13,FinTech,Facebook,Infographic,Education,2026-09-22 13:00:00,Tuesday,13,14207,81.41,87
+Client_08,E-commerce,YouTube,Infographic,Customer Success,2025-02-16 19:00:00,Sunday,19,12490,299.61,98
+Client_15,FinTech,LinkedIn,Infographic,Trends,2024-07-18 01:00:00,Thursday,1,4740,386.51,83
+Client_15,Real Estate,LinkedIn,Carousel,Education,2026-04-23 06:00:00,Thursday,6,11680,414.62,85
+Client_12,Real Estate,LinkedIn,Blog Post,Trends,2025-10-01 02:00:00,Wednesday,2,7528,236.22,82
+Client_02,Fashion,Instagram,Infographic,Customer Success,2024-04-13 19:00:00,Saturday,19,13106,141.87,98
+Client_07,Real Estate,Instagram,Blog Post,Trends,2025-09-30 16:00:00,Tuesday,16,3349,69.05,82
+Client_03,Real Estate,Instagram,Case Study,Promo,2025-08-31 07:00:00,Sunday,7,9997,310.88,89
+Client_08,E-commerce,Instagram,Case Study,Promo,2026-03-23 20:00:00,Monday,20,13305,253.81,98
+Client_07,Real Estate,LinkedIn,Infographic,Trends,2026-07-08 19:00:00,Wednesday,19,4249,476.93,93
+Client_14,Fashion,LinkedIn,Blog Post,Education,2024-05-07 03:00:00,Tuesday,3,14656,77.27,81
+Client_08,SaaS,Instagram,Blog Post,,2025-10-27 19:00:00,Monday,19,8180,358.43,89
+Client_14,E-commerce,YouTube,Blog Post,,2025-11-13 20:00:00,Thursday,20,10827,61.23,88
+Client_07,SaaS,Instagram,Carousel,Trends,2026-06-19 06:00:00,Friday,6,1705,127.15,89
+Client_11,E-commerce,X,Case Study,Education,2026-06-23 03:00:00,Tuesday,3,8852,254.11,87
+Client_06,Health,X,Blog Post,Customer Success,2026-06-04 13:00:00,Thursday,13,6091,254.69,78
+Client_13,FinTech,Instagram,Blog Post,Promo,2024-02-06 12:00:00,Tuesday,12,4950,358.57,78
+Client_07,Health,LinkedIn,Carousel,Customer Success,2026-12-01 07:00:00,Tuesday,7,8714,459.6,90
+Client_05,Real Estate,Instagram,Carousel,Education,2026-09-02 11:00:00,Wednesday,11,5311,337.56,92
+Client_07,SaaS,LinkedIn,Blog Post,Customer Success,2024-06-21 14:00:00,Friday,14,13314,479.09,83
+Client_01,Real Estate,YouTube,Reel,Education,2025-09-25 10:00:00,Thursday,10,13291,446.73,98
+Client_01,FinTech,Instagram,Blog Post,Trends,2024-10-17 06:00:00,Thursday,6,12243,313.02,89
+Client_09,E-commerce,LinkedIn,Blog Post,Customer Success,2024-10-21 23:00:00,Monday,23,6641,425.21,82
+Client_14,FinTech,Instagram,Carousel,Trends,2024-11-28 19:00:00,Thursday,19,14000,339.16,98
+Client_05,Fashion,Instagram,Carousel,Trends,2024-10-10 07:00:00,Thursday,7,10001,85.35,88
+Client_13,FinTech,YouTube,Blog Post,Behind the Scenes,2024-07-05 01:00:00,Friday,1,4208,383.25,79
+Client_05,Fashion,Instagram,Blog Post,Education,2025-12-10 03:00:00,Wednesday,3,3491,92.71,84
+Client_03,FinTech,LinkedIn,Blog Post,Promo,2025-07-13 01:00:00,Sunday,1,9963,317.34,78
+Client_05,Fashion,LinkedIn,Carousel,Education,2026-01-23 05:00:00,Friday,5,13334,366.19,86
+Client_03,SaaS,X,Blog Post,Promo,2026-12-30 02:00:00,Wednesday,2,13778,79.94,64
+Client_09,Real Estate,Instagram,Blog Post,Education,2026-05-30 16:00:00,Saturday,16,11514,153.86,92
+Client_09,Real Estate,LinkedIn,Infographic,,2024-12-12 07:00:00,Thursday,7,4773,462.05,86
+Client_06,Health,YouTube,Reel,,2025-12-18 06:00:00,Thursday,6,6038,,97
+Client_15,Real Estate,LinkedIn,Case Study,Customer Success,2025-08-10 10:00:00,Sunday,10,14041,160.83,97
+Client_01,E-commerce,X,Reel,,2024-08-03 17:00:00,Saturday,17,10212,360.81,92
+Client_07,FinTech,YouTube,Infographic,Promo,2025-08-17 06:00:00,Sunday,6,10668,318.55,83
+Client_07,Health,YouTube,Case Study,,2026-12-17 01:00:00,Thursday,1,5222,275.71,87
+Client_14,E-commerce,YouTube,Blog Post,Promo,2026-11-20 20:00:00,Friday,20,5051,489.28,85
+Client_10,E-commerce,X,Infographic,Trends,2024-12-12 04:00:00,Thursday,4,13797,357.55,84
+Client_10,Fashion,X,Blog Post,Promo,2024-09-04 21:00:00,Wednesday,21,12465,218.95,79
+Client_04,Real Estate,YouTube,Carousel,Customer Success,2026-03-11 22:00:00,Wednesday,22,12244,410.03,91
+Client_08,SaaS,YouTube,Infographic,Trends,2024-02-17 22:00:00,Saturday,22,4332,448.06,87
+Client_06,SaaS,Instagram,Carousel,Education,2026-09-24 16:00:00,Thursday,16,13599,106.35,92
+Client_04,Health,Instagram,Infographic,Promo,2024-03-21 11:00:00,Thursday,11,7179,140.25,87
+Client_04,SaaS,LinkedIn,Infographic,Promo,2025-01-18 12:00:00,Saturday,12,8079,147.3,82
+Client_02,FinTech,Instagram,Carousel,Education,2026-01-22 00:00:00,Thursday,0,14922,361.05,95
+Client_14,SaaS,LinkedIn,Case Study,Promo,2024-02-15 01:00:00,Thursday,1,1652,321.37,79
+Client_02,Health,Instagram,Reel,Education,2025-12-05 00:00:00,Friday,0,7254,328.55,98
+Client_12,SaaS,Instagram,Blog Post,Trends,2025-07-12 15:00:00,Saturday,15,12656,473.35,91
+Client_14,FinTech,YouTube,Infographic,Customer Success,2024-11-21 05:00:00,Thursday,5,12608,399.16,91
+Client_04,Fashion,X,Blog Post,Education,2024-08-06 05:00:00,Tuesday,5,4300,107.57,77
+Client_05,Health,Instagram,Carousel,Behind the Scenes,2025-12-06 23:00:00,Saturday,23,6810,206.38,82
+Client_08,Fashion,LinkedIn,Blog Post,Education,2026-04-15 16:00:00,Wednesday,16,11444,245.93,85
+Client_15,Fashion,Facebook,Carousel,Promo,2025-06-16 07:00:00,Monday,7,4110,228.18,74
+Client_06,Fashion,Instagram,Blog Post,Trends,2026-09-18 04:00:00,Friday,4,13567,351.19,84
+Client_14,E-commerce,Facebook,Reel,Trends,2025-11-07 20:00:00,Friday,20,2604,451.35,98
+Client_15,Real Estate,LinkedIn,Reel,Education,2025-07-03 08:00:00,Thursday,8,12228,187.72,94
+Client_04,E-commerce,Instagram,Reel,Customer Success,2024-05-19 07:00:00,Sunday,7,14682,298.34,98
+Client_13,Real Estate,X,Reel,Behind the Scenes,2025-07-16 12:00:00,Wednesday,12,14899,405.23,93
+Client_11,Fashion,Instagram,Reel,Trends,2026-05-02 06:00:00,Saturday,6,8861,237.3,98
+Client_07,Health,YouTube,Reel,Promo,2025-02-06 14:00:00,Thursday,14,5699,125.65,95
+Client_08,Real Estate,Facebook,Carousel,Promo,2025-12-07 20:00:00,Sunday,20,5354,263.73,89
+Client_02,FinTech,Instagram,Infographic,,2025-09-22 05:00:00,Monday,5,8763,74.85,83
+Client_12,FinTech,YouTube,Blog Post,Trends,2026-09-01 12:00:00,Tuesday,12,13186,474.07,85
+Client_07,SaaS,X,Reel,Education,2024-12-04 18:00:00,Wednesday,18,3414,83.67,90
+Client_15,Real Estate,Instagram,Carousel,Promo,2026-03-24 19:00:00,Tuesday,19,8865,247.31,89
+Client_14,Health,Facebook,Carousel,Customer Success,2026-05-09 17:00:00,Saturday,17,4572,288.45,83
+Client_02,E-commerce,LinkedIn,Carousel,Trends,2024-03-10 23:00:00,Sunday,23,10698,493.39,87
+Client_02,Fashion,YouTube,Infographic,Trends,2024-05-26 02:00:00,Sunday,2,1906,124.71,80
+Client_08,SaaS,YouTube,Blog Post,Trends,2025-07-07 12:00:00,Monday,12,1666,101.49,81
+Client_02,FinTech,Instagram,Infographic,Trends,2024-10-29 05:00:00,Tuesday,5,2008,53.92,84
+Client_15,E-commerce,X,Case Study,Trends,2026-03-08 00:00:00,Sunday,0,3161,120.01,76
+Client_11,E-commerce,X,Carousel,Promo,2025-01-28 03:00:00,Tuesday,3,5164,143.27,71
+Client_09,Fashion,YouTube,Case Study,Customer Success,2026-06-17 20:00:00,Wednesday,20,4989,333.76,98
+Client_12,Real Estate,YouTube,Reel,Trends,2025-04-16 06:00:00,Wednesday,6,14550,148.87,96
+Client_01,FinTech,YouTube,Reel,Behind the Scenes,2025-07-08 00:00:00,Tuesday,0,2180,59.23,91
+Client_15,Health,LinkedIn,Infographic,Behind the Scenes,2026-02-10 21:00:00,Tuesday,21,4024,421.98,93
+Client_09,E-commerce,YouTube,Blog Post,Customer Success,2025-07-05 21:00:00,Saturday,21,3620,214.52,95
+Client_15,Fashion,LinkedIn,Case Study,Education,2025-04-09 15:00:00,Wednesday,15,6760,209.16,88
+Client_01,Health,LinkedIn,Blog Post,Education,2025-03-11 17:00:00,Tuesday,17,14369,186.12,81
+Client_10,Real Estate,YouTube,Infographic,Education,2026-08-16 09:00:00,Sunday,9,5857,488.92,86
+Client_13,FinTech,LinkedIn,Reel,Behind the Scenes,2024-04-13 07:00:00,Saturday,7,2863,126.55,89
+Client_10,Real Estate,Instagram,Blog Post,Education,2026-08-10 20:00:00,Monday,20,11023,454.21,97
+Client_02,E-commerce,Instagram,Blog Post,Promo,2026-12-28 03:00:00,Monday,3,3792,399.56,74
+Client_06,Health,LinkedIn,Reel,Trends,2026-09-18 21:00:00,Friday,21,3038,84.42,98
+Client_06,Health,YouTube,Case Study,Behind the Scenes,2024-07-04 12:00:00,Thursday,12,4908,494.03,98
+Client_01,Health,LinkedIn,Reel,Customer Success,2024-09-02 01:00:00,Monday,1,9242,172.11,98
+Client_07,E-commerce,YouTube,Blog Post,Customer Success,2026-08-18 09:00:00,Tuesday,9,10252,94.36,84
+Client_08,E-commerce,LinkedIn,Case Study,Trends,2025-08-09 05:00:00,Saturday,5,10791,423.19,90
+Client_02,Real Estate,YouTube,Case Study,Behind the Scenes,2024-04-28 17:00:00,Sunday,17,3403,368.0,91
+Client_08,SaaS,Instagram,Reel,Education,2024-11-03 22:00:00,Sunday,22,1674,327.75,98
+Client_09,Real Estate,LinkedIn,Blog Post,Education,2026-08-28 09:00:00,Friday,9,11848,120.19,84
+Client_06,FinTech,YouTube,Infographic,Promo,2025-05-11 18:00:00,Sunday,18,3730,265.32,88
+Client_05,Fashion,Facebook,Blog Post,Promo,2024-04-13 17:00:00,Saturday,17,5787,401.25,79
+Client_12,Health,LinkedIn,Carousel,Education,2025-02-13 07:00:00,Thursday,7,5660,186.63,85
+Client_09,SaaS,Instagram,Infographic,Customer Success,2025-01-18 15:00:00,Saturday,15,13612,190.26,86
+Client_13,Fashion,Instagram,Case Study,Customer Success,2025-02-01 12:00:00,Saturday,12,8606,51.41,95
+Client_12,SaaS,Instagram,Infographic,Promo,2025-11-12 20:00:00,Wednesday,20,11189,128.41,90
+Client_11,Real Estate,YouTube,Case Study,Trends,2024-07-11 03:00:00,Thursday,3,13546,443.93,96
+Client_09,E-commerce,Instagram,Case Study,Education,2026-03-11 23:00:00,Wednesday,23,4671,248.79,93
+Client_01,Health,LinkedIn,Infographic,Promo,2026-11-03 23:00:00,Tuesday,23,3067,492.91,77
+Client_11,Real Estate,LinkedIn,Case Study,,2024-09-01 22:00:00,Sunday,22,2651,228.07,84
+Client_03,Fashion,Instagram,Case Study,,2025-11-12 03:00:00,Wednesday,3,9119,371.83,94
+Client_09,Fashion,LinkedIn,Carousel,Education,2026-11-27 07:00:00,Friday,7,7533,176.86,84
+Client_11,Fashion,Instagram,Blog Post,Customer Success,2026-08-03 07:00:00,Monday,7,10060,213.71,85
+Client_02,Fashion,LinkedIn,Blog Post,,2024-02-05 11:00:00,Monday,11,6446,135.83,86
+Client_12,Fashion,Instagram,Carousel,Trends,2026-01-22 23:00:00,Thursday,23,9734,206.18,94
+Client_04,SaaS,Facebook,Infographic,Education,2024-10-11 17:00:00,Friday,17,3407,296.26,76
+Client_04,Real Estate,Instagram,Reel,Behind the Scenes,2025-05-12 10:00:00,Monday,10,4990,496.3,98
+Client_02,Health,X,Reel,Promo,2024-04-11 03:00:00,Thursday,3,4035,348.89,88
+Client_15,E-commerce,LinkedIn,Reel,Promo,2026-12-25 08:00:00,Friday,8,5673,139.66,90
+Client_03,E-commerce,Facebook,Carousel,,2024-06-15 16:00:00,Saturday,16,12565,70.23,81
+Client_13,Real Estate,YouTube,Carousel,Behind the Scenes,2024-07-29 12:00:00,Monday,12,11516,106.86,83
+Client_03,Real Estate,YouTube,Case Study,Customer Success,2024-04-24 02:00:00,Wednesday,2,2793,,97
+Client_01,E-commerce,YouTube,Reel,Education,2026-07-10 12:00:00,Friday,12,6269,394.32,98
+Client_06,E-commerce,LinkedIn,Infographic,Education,2024-08-12 11:00:00,Monday,11,6296,473.19,85
+Client_08,SaaS,LinkedIn,Infographic,,2024-11-29 10:00:00,Friday,10,14546,57.12,84
+Client_12,FinTech,LinkedIn,Reel,Education,2024-08-18 16:00:00,Sunday,16,8371,,92
+Client_03,Health,LinkedIn,Reel,Education,2025-07-15 15:00:00,Tuesday,15,13078,261.89,97
+Client_05,Fashion,Instagram,Reel,Education,2024-06-12 01:00:00,Wednesday,1,4472,345.22,98
+Client_01,FinTech,LinkedIn,Carousel,Promo,2025-12-28 02:00:00,Sunday,2,5422,301.81,84
+Client_10,Real Estate,YouTube,Carousel,Customer Success,2026-10-01 11:00:00,Thursday,11,6497,359.17,94
+Client_07,E-commerce,LinkedIn,Carousel,Customer Success,2026-05-15 04:00:00,Friday,4,8532,346.14,89
+Client_10,FinTech,YouTube,Blog Post,Education,2025-03-19 04:00:00,Wednesday,4,2492,102.66,77
+Client_13,Health,YouTube,Infographic,Promo,2026-05-03 19:00:00,Sunday,19,9612,409.87,87
+Client_01,Real Estate,X,Infographic,Customer Success,2024-08-26 14:00:00,Monday,14,6787,105.45,78
+Client_12,Fashion,Instagram,Case Study,Customer Success,2024-05-20 13:00:00,Monday,13,12078,,98
+Client_11,Fashion,LinkedIn,Carousel,Customer Success,2025-05-21 17:00:00,Wednesday,17,3740,237.27,88
