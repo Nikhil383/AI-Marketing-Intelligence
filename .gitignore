@@ -1,13 +1,76 @@
-# Python-generated files
+# =========================
+# Python
+# =========================
+
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+*.py[cod]
+*$py.class
+
+*.so
 
 # Virtual environments
-.venv
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Environment / Secrets
+# =========================
+
 .env
-src/.env
-data/ .pkl
+.env.*
+!.env.example
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor
+# =========================
+
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# ML / Generated Artifacts
+# =========================
+
+# Generated dataset
+data/marketing_data.csv
+
+# Trained model
+data/recommendation_model.pkl
+
+# Generated recommendation files
+data/content_performance.csv
+data/content_performance.png
+
+# =========================
+# Temporary files
+# =========================
+
+*.tmp
+*.temp
+*.bak
