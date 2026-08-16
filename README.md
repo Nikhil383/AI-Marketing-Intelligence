@@ -95,6 +95,11 @@ The dataset contains sample marketing data including information about content f
     ```
 
 ## Demo
+<img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/9091a6d3-b887-4efc-8a3c-1f8bbc538295" />
+
+<img width="1909" height="900" alt="image" src="https://github.com/user-attachments/assets/9ac31528-9fce-42bb-bc0e-b8f00e8a67e0" />
+
+<img width="1898" height="490" alt="image" src="https://github.com/user-attachments/assets/2d78a1a9-aaa8-4507-b825-d388106a0816" />
 
 
 ## Improvements
