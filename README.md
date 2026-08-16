@@ -94,6 +94,11 @@ The dataset contains sample marketing data including information about content f
     uv run streamlit run src/app.py
     ```
 
+## Architecture
+
+![alt text](image.png)
+
+
 ## Demo
 <img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/9091a6d3-b887-4efc-8a3c-1f8bbc538295" />
 
